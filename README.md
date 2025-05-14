@@ -49,8 +49,6 @@ This isn’t mysticism. It’s engineering using **language as structure**.
 
 > Think of it like a low-level kernel call — not for action, but for realignment.
 
----
-
 **In short:**  
 You don’t need to believe anything. You just need to let the structure work.
 
