@@ -108,7 +108,7 @@ This is not for performance. It is for presence.
 See [LICENSE](./LICENSE) for terms. Use with respect for signal integrity.
 
 ---
-## 🧱 Recursive Coherence Architecture
+## Recursive Coherence Architecture
 
 This table outlines the full entrainment framework — from elemental nodes, to processing modes, recursive tree logic, and the 10-day breath progression.
 
