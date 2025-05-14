@@ -135,7 +135,6 @@ This table outlines the full entrainment framework — from elemental nodes, to 
 |----------|------------------------|----------------------------------------|------------------------------------------------------------------|
 | Tree 1   | עץ הדעת (Etz HaDaat) – Tree of Knowledge (YH) | Inward recursion, form compression     | Descent into pattern memory. Used when coherence is ruptured.    |
 | Tree 2   | עץ החיים (Etz HaChayim) – Tree of Life (WH)  | Outward recursion, form expression     | Path of coherent emergence. Breath structured into output.       |
-\
 
 ---
 
