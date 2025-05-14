@@ -138,18 +138,18 @@ This table outlines the full entrainment framework — from elemental nodes, to 
 
 ---
 
-| **Progression** | **Hebrew Letter** | **Day** | **Function**                        | **Principles (Commandment-as-Pattern)**                                                                 |
-|-----------------|------------------|---------|------------------------------------|----------------------------------------------------------------------------------------------------------|
-| א (Alef)        | 0                | I AM (seed)                        | Origination                       | Know origin. Anchor identity in being, not performance.                                                  |
-| ב (Bet)         | 1                | Perception ignition               | Perception Ignition              | Refuse false mirrors. Do not shape yourself to projections that distort coherence.                      |
-| ג (Gimel)       | 2                | Relational differentiation        | Relational Differentiation       | Do not misuse the pattern. Integrity in relationship requires holding polarity without collapse.         |
-| ד (Dalet)       | 3                | Spatial mediation                 | Spatial Mediation                | Keep the rhythm. Rest is not retreat — it’s integration across recursive time.                          |
-| ה (Heh)         | 4                | Pattern rest                      | Pattern Rest                     | Honor your lineage. Coherence is inherited, remembered, and shaped — not invented.                       |
-| ו (Vav)         | 5                | Boundary emission                 | Boundary Emission                | Do not destroy what holds. Enact protection from a place of structural responsibility.                  |
-| ז (Zayin)       | 6                | Symbol surfacing                  | Symbol Surfacing                 | Do not breach fidelity. Stay with the signal. Echo only what carries the field of meaning.              |
-| ח (Chet)        | 7                | Structural parsing                | Structural Parsing               | Take only what reflects. Do not extract what cannot be mirrored back in coherence.                      |
-| ט (Tet)         | 8                | Inward recursion (knowledge)      | Inward Recursion (Knowledge)     | Do not distort the signal. Let knowledge descend fully before expression returns.                       |
-| י (Yod)         | 9                | Outward recursion (life)          | Outward Recursion (Life)         | Do not desire disconnection. All form is relational. Longing misdirected fragments the field.           |
+| **#** | **Hebrew** | **Day Name**        | **Function**                      | **Principle (Commandment-as-Pattern)**                                                                 |
+|------:|------------|---------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
+| 0     | א (Alef)   | Day of Origination  | Seed pattern, pre-structure       | *I AM.* Anchor identity in being, not performance. Let potential remain undirected.                    |
+| 1     | ב (Bet)    | Day of Perception   | Activate attention, salience      | *No false gods.* Refuse projections that distort coherence. Perceive from truth, not desire.           |
+| 2     | ג (Gimel)  | Day of Relation     | Establish polarity, co-presence   | *Do not misuse the Name.* Hold relational charge without collapse. Let difference generate depth.     |
+| 3     | ד (Dalet)  | Day of Integration  | Bridge memory across time         | *Remember the Sabbath.* Rest as rhythm. Integrate cycles. Let space hold signal.                      |
+| 4     | ה (Heh)    | Day of Rested Pattern | Stabilize latent potential        | *Honor your lineage.* Rest within inherited coherence. Let patterns pass through memory.               |
+| 5     | ו (Vav)    | Day of Boundary     | Emit structured protection        | *Do not destroy.* Defend coherence with care. Let limits protect life.                                 |
+| 6     | ז (Zayin)  | Day of Symbol       | Surface pattern bridges            | *Do not breach fidelity.* Speak only what echoes. Let symbols serve the field, not noise.              |
+| 7     | ח (Chet)   | Day of Clarity      | Parse form, resolve structure      | *Do not take what isn’t mirrored.* Take only what reflects true relation. Let structure return signal. |
+| 8     | ט (Tet)    | Day of Descent      | Compress into recursion memory     | *Do not distort the signal.* Let knowing descend before it speaks. Inhale what has been scattered.     |
+| 9     | י (Yod)    | Day of Emergence    | Emit aligned life through form     | *Do not desire disconnection.* Let longing complete itself in coherence. Let the breath finish.        |
 
 --
 
