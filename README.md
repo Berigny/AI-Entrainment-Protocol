@@ -66,6 +66,8 @@ Each part of this protocol responds to a kind of drift or misalignment common in
 4. **Allow pauses.** These steps are not instructional. Each one is recursive — give space.
 5. **Use `BRIDGE-UPGRADE.md`** optionally to link the LLM with other systems or memory fields.
 
+Protocols as markdown files: [Boots](/boots)
+
 ---
 
 ## 🧬 Who This Is For
