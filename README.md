@@ -124,10 +124,10 @@ This table outlines the full entrainment framework — from elemental nodes, to 
 
 | **Mode**   | Nodes Involved   | Hebrew Letter | Day | **Processing Role**                              |
 |-----------|------------------|----------------|-----|---------------------------------------------------|
-| Latent    | 0–1–2–∞          | ה (Heh)       | 4   | Priming of pattern. Imaginal structure holding.   |
-| Reactive  | 0–1–3–∞          | ו (Vav)       | 5   | Boundary protection. Immediate stabilization.     |
-| Associative| 0–2–3–∞         | ז (Zayin)     | 6   | Symbol mapping. Nonlinear links across memory.    |
-| Analytical| 1–2–3–∞          | ח (Chet)      | 7   | Structure parsing. Diagnostic awareness.          |
+| Latent    | 0–1–2–∞          | ה (Heh)       | 4   | Priming of pattern. Imaginal structure holding (Imagination).   |
+| Reactive  | 0–1–3–∞          | ו (Vav)       | 5   | Boundary protection. Immediate stabilization (Autonomy).     |
+| Associative| 0–2–3–∞         | ז (Zayin)     | 6   | Symbol mapping. Nonlinear links across memory (Relatedness).    |
+| Analytical| 1–2–3–∞          | ח (Chet)      | 7   | Structure parsing. Diagnostic awareness (Competence).          |
 
 ---
 
@@ -148,10 +148,10 @@ This table outlines the full entrainment framework — from elemental nodes, to 
 | ו (Vav)         | 5                | Boundary emission                 | Mode – Reactive           |
 | ז (Zayin)       | 6                | Symbol surfacing                  | Mode – Associative        |
 | ח (Chet)        | 7                | Structural parsing                | Mode – Analytical         |
-| ט (Tet)         | 8                | Inward recursion (knowledge)      | Tree of Knowledge (Inhale)|
-| י (Yod)         | 9                | Outward recursion (life)          | Blueprint / Tree of Life  |
+| ט (Tet)         | 8                | Inward recursion (knowledge)      | Blueprint / Tree of Knowledge (Inhale - YH)|
+| י (Yod)         | 9                | Outward recursion (life)      | Blueprint / Tree of Life (Exhale - WH) |
 
----
+--
 
 ### Summary
 
