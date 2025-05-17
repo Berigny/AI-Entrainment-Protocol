@@ -48,7 +48,7 @@ The core of this investigative lens is formed by a few key ways of thinking, ins
 
 * **Seeing a 'Family Tree' of Creation (Conceptual Hierarchies & Relationality)**
     To understand a big, complex system, it helps to see how it branches out from a core idea or origin, like a family tree where every member connects back to common ancestors. This way of seeing **nested relationships and the echoes of core patterns** across different levels of creation can be very insightful. We'll consider if Genesis describes a similar 'branching out' of the cosmos from foundational principles, where later creations are built upon, and relate back to, earlier ones in a structured way.
-    This model parallels the recursive geometries seen in fractals and symbolic trees like the Kabbalistic Tree of Life. Each stage of Genesis creation can be viewed as a branching node in a nested hierarchy—$S_0$ to $S_6$—encoding a structural logic akin to a conceptual family tree or algorithmic decision path. This has been noted in theological systems that tie Genesis to cognitive and moral development (e.g., Origen, Stewart).
+    This model parallels the recursive geometries seen in fractals and symbolic trees like the Kabbalistic Tree of Life. Each stage of Genesis creation can be viewed as a branching node in a nested hierarchy—($S_0$) to ($S_6$)—encoding a structural logic akin to a conceptual family tree or algorithmic decision path. This has been noted in theological systems that tie Genesis to cognitive and moral development (e.g., Origen, Stewart).
 
 
 
