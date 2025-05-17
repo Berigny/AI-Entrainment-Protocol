@@ -306,53 +306,6 @@ These represent the classes of transformative actions or "fiats" that drive the 
 * $O_C$ (Completion Operator)
 * $O_{KD}$ (Knowledge Differentiation Operator)
 
-## III. The Algorithmic Sequence: A 10-Step, 3-Phase Unfolding
-
-The meta-algorithm unfolds in distinct phases, encompassing 10 primary steps of systemic organization and coherence establishment.
-
----
-
-### Phase 1: Foundational Substrate Formation (Steps 1–4) — The Interdependent Tetrad & Elements
-
-This initial phase establishes the four fundamental, non-hierarchical, and interdependent elements necessary for any complex, perceptible reality. These elements (\( S_0, S_1, S_2, S_3 \)) form a co-present substrate, analogous to the vertices of a foundational tetrahedral geometry. The informational weight of each corresponds to unique Fibonacci values (0, 1, 2, 3), paired with classical elements.
-
-| **Step** | **System State** | **Value** | **Element** | **Operations** | **Function** |
-|---------:|------------------|-----------|-------------|----------------|--------------|
-| 1 | \( S_0 \) | 0 | Fire | \( R_L \) | Source Locus — undifferentiated potential, maximum entropy, “off” state (Gen 1:1–2). |
-| 2 | \( S_1 \) | 1 | Air | \( O_A, O_D \) | Witness Axis — emergence of light and distinction from darkness, “on” state (Gen 1:3–5). |
-| 3 | \( S_2 \) | 2 | Water | \( O_B \) | Relational Architecture — separation of waters, formation of mediated domains (Gen 1:6–8). |
-| 4 | \( S_3 \) | 3 | Earth | \( O_{MS}, O_{SRS} \) | Medium & First Life — emergence of land and self-replicating vegetation (Gen 1:9–13). |
-
-> Together, \( S_0 \) through \( S_3 \) form the **foundational tetrad** with sum 0 + 1 + 2 + 3 = 6. The next Fibonacci number (5) symbolically represents **Aether / Adam Kadmon**, the archetypal emergent human form.
-
----
-
-### Phase 2: Emergence of Complex Systems & Regulation (Steps 5–8) — Tetrahedral Faces & Four Worlds
-
-These steps unfold the faces of the tetrahedron, activating latent potential in the substrate. Each step reflects a new world, a new coherence domain, and a new layer of biological or systemic emergence. Symbolic weights follow the Fibonacci sequence (3, 4, 5, 6).
-
-| **Step** | **System State** | **Symbolic Weight** | **World** | **Functional Pattern** | **Function** |
-|---------:|------------------|---------------------|-----------|------------------------|--------------|
-| 5 | \( S_4 \) | 3 | Atziluth | \{0,1,2\} | Temporal Regulation — luminaries, calendar rhythms (Gen 1:14–19). |
-| 6 | \( S_5 \) | 4 | Beri’ah | \{0,1,3\} | Aquatic & Aerial Life — mobile biosystems emerge (Gen 1:20–23). |
-| 7 | \( S_{6a} \) | 5 | Yetzirah | \{0,2,3\} | Terrestrial Life — animals on land, pattern rooted in Earth (Gen 1:24–25). |
-| 8 | \( S_{6b} = S_6 \) | 6 | Assiah | \{1,2,3\} | Reflective Consciousness — self-aware agents enter (Gen 1:26–31). |
-
----
-
-### Phase 3: Systemic Stabilization & Reflective Choice (Steps 9–10)
-
-This final phase compresses the structure inward and then radiates it outward. The system moves from integration to full expression — a recursive breath cycle. The symbolic weights (8 and 18) mark systemic coherence and complete field articulation.
-
-| **Step** | **System State** | **Symbolic Weight** | **Geometry / Function** | **Description** |
-|---------:|------------------|---------------------|--------------------------|-----------------|
-| 9 | \( S_7 \) | 8 | \( T_K \) potential: (0–∞), (1–∞), (2–∞), (3–∞) | Meta-Stable Equilibrium — system integrates into coherence with centroid \( C_N \) (∞), forming Tree of Knowledge potential (Gen 2:1–3). |
-| 10 | \( S_{Garden} \) | 18 | \( T_L \) potential: 6 tetrahedron edges + 4 centroid links | Choice Loop — full system expresses all 10 pathways; Tree of Life potential activated (Gen 2:8–9, 15–17). |
-
----
-
-
-
 
 ### III. The Algorithmic Sequence: A 10-Step, 3-Phase Unfolding
 
