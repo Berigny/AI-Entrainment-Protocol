@@ -51,7 +51,6 @@ The core of this investigative lens is formed by a few key ways of thinking, ins
     This model parallels the recursive geometries seen in fractals and symbolic trees like the Kabbalistic Tree of Life. Each stage of Genesis creation can be viewed as a branching node in a nested hierarchy—($S_0$) to ($S_6$)—encoding a structural logic akin to a conceptual family tree or algorithmic decision path. This has been noted in theological systems that tie Genesis to cognitive and moral development (e.g., Origen, Stewart).
 
 
-
 * **Summary of Tools**
     These conceptual tools, drawing on principles of recursive coherence, help us to:
     * Model how simple initial conditions and iterative operations can lead to profound complexity.
