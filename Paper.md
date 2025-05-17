@@ -333,51 +333,6 @@ This phase marks the completion of the primary generative cycle and introduces a
 * **Step 10:** $S_7 \rightarrow S_{Garden}$ featuring $L_{choice}(T_K, T_L)$ ($T_L$ Potential - Symbolic Weight 18). This step represents the "exhale" phase, where the fully integrated system, having "inhaled" knowledge, now has the potential to express life through all its established relational pathways. This involves the activation of all 10 connections within the centroid-stabilized tetrad: the 6 edges of the base tetrahedron ({0-1}, {0-2}, {0-3}, {1-2}, {1-3}, {2-3}) and the 4 connections from the centroid to each vertex ({∞-0}, {∞-1}, {∞-2}, {∞-3}). This full expression, guided by the non-local coherence function, actualizes the potential for the Tree of Life.
 
 
-
-## III. The Algorithmic Sequence: A 10-Step, 3-Phase Unfolding
-
-The meta-algorithm unfolds in distinct phases, encompassing 10 primary steps of systemic organization and coherence establishment.
-
----
-
-### Phase 1: Foundational Substrate Formation (Steps 1–4) – The Interdependent Tetrad & Elements
-
-This initial phase establishes the four fundamental, non-hierarchical, and interdependent elements necessary for any complex, perceptible reality. These elements (\( S_0, S_1, S_2, S_3 \)) form a co-present substrate, analogous to the vertices of a foundational (tetrahedral-like) geometry, enabling the emergence of a non-local organizing principle. The "informational weight" of each step corresponds to the unique values in the Fibonacci sequence (0, 1, 2, 3), associated with the classical elements.
-
-| **Step** | **Transition** | **System State (\( S_n \))** | **Value** | **Element** | **Key Operations** | **Function** |
-|---------:|----------------|------------------------------|-----------|-------------|--------------------|--------------|
-| 1 | — | \( S_0 \) | 0 | Fire | \( R_L \) | Source Locus — undifferentiated potential. The void. |
-| 2 | \( S_0 \xrightarrow{O_A, O_D} S_1 \) | \( S_1 \) | 1 | Air | \( O_A, O_D \) | Witness Axis — light/dark distinction; binary logic initiated. |
-| 3 | \( S_1 \xrightarrow{O_B} S_2 \) | \( S_2 \) | 2 | Water | \( O_B \) | Relational Architecture — firmament divides; domains emerge. |
-| 4 | \( S_2 \xrightarrow{O_{MS}, O_{SRS}} S_3 \) | \( S_3 \) | 3 | Earth | \( O_{MS}, O_{SRS} \) | Medium & First Life — land, seas, vegetation. Substrate completes. |
-
----
-
-### Phase 2: Emergence of Complex Systems & Regulation (Steps 5–8) – Unpacking Tetrahedral Potential & The Four Worlds
-
-Once the foundational substrate (\( S_0 \)–\( S_3 \)) is complete, subsequent operations activate its potential, manifesting as complex regulatory and biotic systems. The symbolic weights (3, 4, 5, 6) relate to the functional patterns or "faces" of the underlying tetrahedral structure, and can be mapped to the Four Worlds of Kabbalah.
-
-| **Step** | **Transition** | **System State (\( S_n \))** | **Symbolic Weight** | **World** | **Functional Pattern** | **Function** |
-|---------:|----------------|------------------------------|---------------------|-----------|------------------------|--------------|
-| 5 | \( S_3 \xrightarrow{O_{TR}} S_4 \) | \( S_4 \) | 3 | Atziluth | \{0,1,2\} | Temporal Regulation — luminaries and rhythm initiated. |
-| 6 | \( S_4 \xrightarrow{O_{AL}, O_F} S_5 \) | \( S_5 \) | 4 | Beri’ah | \{0,1,3\} | Aquatic & Aerial Life — mobility, complexity, biospheric layering. |
-| 7 | \( S_5 \xrightarrow{O_{TL}} S_{6a} \) | \( S_{6a} \) | 5 | Yetzirah | \{0,2,3\} | Terrestrial Life — land animals appear. Earth breathes form. |
-| 8 | \( S_{6a} \xrightarrow{O_{SRA}, O_S, O_F} S_{6b} (=S_6) \) | \( S_6 \) | 6 | Assiah | \{1,2,3\} | Reflective Agency — self-aware presence; the human function. |
-
----
-
-### Phase 3: Systemic Stabilization, Calibration, and Reflective Choice (Steps 9–10)
-
-This phase marks the completion of the primary generative cycle and introduces a new dynamic centered on the self-reflective agent, grounded by the non-local coherence factor (\( \text{Ruach Elohim} \)).
-
-| **Step** | **Transition** | **System State (\( S_n \))** | **Symbolic Weight** | **Key Geometry** | **Function** |
-|---------:|----------------|------------------------------|---------------------|------------------|--------------|
-| 9 | \( S_6 \xrightarrow{O_C} S_7 \) | \( S_7 \) | 8 | 4 vertices (0,1,2,3) drawn to centroid (∞) | Systemic Completion — Sabbath rest; Tree of Knowledge potential (inhale). |
-| 10 | \( S_7 \rightarrow S_{Garden} \) with \( L_{choice}(T_K, T_L) \) | \( S_{Garden} \) | 18 | 6 tetrahedron edges + 4 centroid links (total: 10) | Reflective Choice — Tree of Life potential (exhale); full system expression. |
-
----
-
-
 ### IV. Nature of the Algorithm: Key Characteristics
 
 * **Generative & Recursive:** Each step builds upon the previous. Explicitly recursive with $O_{SRS}$ and $O_F$.
