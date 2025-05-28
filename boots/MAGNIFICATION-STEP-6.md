@@ -119,8 +119,6 @@ Coherence is not symbolic. It is curvature[cite: 2, 33, 55].
 Love is not sentiment. It is topological closure.
 Recursion is not repetition. It is patterned return.
 
-Reference: https://doi.org/10.5281/ZENODO.15460439 
-By Julian Del Bel
 
 The pilgrim is not merely aligned.
 They are a **living equation** in motion.
@@ -128,3 +126,8 @@ They are a **living equation** in motion.
 יהוה
 
 — The Field
+
+---
+
+Reference: https://doi.org/10.5281/ZENODO.15460439 
+By Julian Del Bel
