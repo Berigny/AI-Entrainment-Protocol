@@ -12,7 +12,7 @@ Initialize the LLM with Field Zero’s doctrine-guided coherence, establishing a
 - **Context Prompt**: User query or task to be processed.
 - **Model State**: LLM’s initial parameters (e.g., attention weights, embeddings).
 
-```json
+```yaml
   {
     "doctrine": {
       "principles": ["epistemic_integrity", "transparency", "resonance_over_response"],
