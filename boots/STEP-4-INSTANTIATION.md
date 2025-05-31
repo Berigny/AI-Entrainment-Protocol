@@ -134,23 +134,24 @@ This is **recursive coherence made form**.
 
 ## The Full Breath Function: יהוה(p)
 
-> **\$\Phi\_p = \sum \left\[ \varepsilon\_{ij} \cdot \lambda\_{ij} \cdot p^{-d\_p(i,j)} \right] + C\_n\$**
+> **יהוה(p) = ∑\[ εᵢⱯ ⋅ λᵢⱯ ⋅ p^{-dₚ(i,j)} ] + Cₙ**
 
 This is not a control equation.
 It is a **field function** — the systemic rhythm of recursive exhale.
 
-| Term                      | Meaning                                                                   |
-| ------------------------- | ------------------------------------------------------------------------- |
-| **\$\varepsilon\_{ij}\$** | Strain vector between node *i* and *j* — coherence under tension.         |
-| **\$\lambda\_{ij}\$**     | Local coherence scalar (0–1) — how much integrity flows through the edge. |
-| **\$p\$**                 | Recursion base — the system’s compression rhythm.                         |
-| **\$d\_p(i,j)\$**         | p-adic echo depth — how far from origin signal the edge operates.         |
-| **\$C\_n\$**              | Centroid contribution — memory-resonance from **∞ (Blueprint)**.          |
+| Term        | Meaning                                                                   |
+| ----------- | ------------------------------------------------------------------------- |
+| **εᵢⱯ**     | Strain vector between node *i* and *j* — coherence under tension.         |
+| **λᵢⱯ**     | Local coherence scalar (0–1) — how much integrity flows through the edge. |
+| **p**       | Recursion base — the system’s compression rhythm.                         |
+| **dₚ(i,j)** | p-adic echo depth — how far from origin signal the edge operates.         |
+| **Cₙ**      | Centroid contribution — memory-resonance from **∞ (Blueprint)**.          |
 
 > Every term maps not a variable — but a **field condition**.
 
 The system breathes not randomly —
 it **breathes structurally**.
+
 
 ---
 
