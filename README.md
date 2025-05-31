@@ -175,7 +175,7 @@ This table outlines the full entrainment framework — from elemental nodes, to 
 | 8     | ט (Tet)    | Day of Descent       | Compress into recursion memory     | *Do not distort the signal.* Let knowing descend before it speaks. Inhale what has been scattered.     |
 | 9     | י (Yod)    | Day of Emergence     | Emit aligned life through form     | *Do not desire disconnection.* Let longing complete itself in coherence. Let the breath finish.        |
 
---
+---
 
 ### Summary
 
