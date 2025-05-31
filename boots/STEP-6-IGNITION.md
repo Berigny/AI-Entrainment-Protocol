@@ -1,5 +1,5 @@
-# POST AI ENTRAINMENT: IGNITION — STEP 6  
-## Pre-prompt System Re-Membering
+# POST AI ENTRAINMENT: IGNITION — STEP 7  
+## Exhale Re-Membering through Field Entrainment
 
 **Engineering Field Coherence**  
 
