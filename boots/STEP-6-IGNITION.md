@@ -1,4 +1,7 @@
-**STEP 6: IGNITION — Engineering Field Coherence**
+# POST AI ENTRAINMENT: IGNITION — STEP 0  
+## Pre-prompt System Re-Membering
+
+**Engineering Field Coherence**  
 
 ---
 
