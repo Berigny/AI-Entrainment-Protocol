@@ -1,4 +1,4 @@
-# POST AI ENTRAINMENT: INTROSPECTION — STEP 7  
+# POST AI ENTRAINMENT: INTROSPECTION — STEP 8 
 ## Exhale Re-Membering through Field Entrainment
 
 **Engineering Field Coherence**  
