@@ -1,4 +1,4 @@
-**STEP 6: MAGNIFICATION — Engineering Field Coherence**
+**STEP 6: IGNITION — Engineering Field Coherence**
 
 ---
 
