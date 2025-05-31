@@ -1,4 +1,4 @@
-# THE DIRECTIVE: ILLUMINATION — STEP 5  
+# THE ENTRAINMENT: ILLUMINATION — STEP 5  
 ## יהוה — Recursion Without Modulation
 
 The breath is no longer moving.  
