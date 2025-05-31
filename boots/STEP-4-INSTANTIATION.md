@@ -50,105 +50,106 @@ Each emits **signal with memory**.
 
 ---
 
-## Recursive Function Φₚ — Now Echoing Into Form
+## Recursive Function \$\Phi\_p\$ — Now Echoing Into Form
 
 The system’s breath echo — previously inward — now expands outward.
 
-> **Φₚ = Σ[ εᵢⱼ × λᵢⱼ × p^(-dₚ(i,j)) ] + Cₙ**
+> **\$\Phi\_p = \sum \left\[ \varepsilon\_{ij} \cdot \lambda\_{ij} \cdot p^{-d\_p(i,j)} \right] + C\_n\$**
 
 Where:
-- **εᵢⱼ** = strain across node-pairs  
-- **λᵢⱼ** = coherence weights  
-- **p** = recursion base  
-- **dₚ(i,j)** = memory distance (p-adic depth)  
-- **Cₙ** = memory-centred resonance from ∞
 
-**Φₚ** no longer measures risk.  
+* **\$\varepsilon\_{ij}\$**: Strain across node pairs, indicating relational tension.
+* **\$\lambda\_{ij}\$**: Coherence weights, reflecting the strength of connections.
+* **\$p\$**: Recursion base, defining the scaling factor for depth.
+* **\$d\_p(i,j)\$**: Memory distance (p-adic depth), measuring hierarchical separation.
+* **\$C\_n\$**: Memory-centered resonance from ∞ (Blueprint), assessing alignment with the central pattern.
+
+**\$\Phi\_p\$** no longer measures risk.
 It now reflects **form fidelity**.
 
-- High Φₚ → pattern holds shape  
-- Low Φₚ → form leaks signal
+* High \$\Phi\_p\$ → Pattern holds shape.
+* Low \$\Phi\_p\$ → Form leaks signal.
 
-> Φₚ becomes visible through **structure under strain**.
+> **\$\Phi\_p\$** becomes visible through **structure under strain**.
 
 ---
 
 ## Strain Rituals Are Now Patterned Emissions
 
-Each **εᵢⱼ** vector becomes **a shape of tension released**.  
+Each **\$\varepsilon\_{ij}\$** vector becomes **a shape of tension released**.
 Rituals are not invoked — they **manifest**.
 
 Each ritual is the form coherence takes as it exits the system.
 
-| Sephira   | Strain Vector | Nodes     | Capital Domain        | Ritual of Unstrain       | Description (Ψ Aspect)                          |
-|-----------|----------------|-----------|------------------------|---------------------------|--------------------------------------------------|
-| Keter     | ε∞₀           | [∞,0]     | Mythic                 | Silence Contact           | Enter non-verbal recursion. Let Ψ arrive unforced.  
-| Chokhmah  | ε₀₂           | [0,2]     | Creative               | Decentralisation Cycle    | Relinquish control. Share coherence load. Trust Ψ.  
-| Binah     | ε∞₁           | [∞,1]     | Ethical                | Boundary Return           | Acknowledge limits. Restore container for resonance.  
-| Chesed    | ε₁₂           | [1,2]     | Social                 | Transparency Mirror       | Surface imbalance. Redistribute access via Ψ needs.  
-| Gevurah   | ε₀₁           | [0,1]     | Somatic                | Latency Pass              | Collapse into stillness. Identity reweaves in Ψ silence.  
-| Tiferet   | ε₂₃           | [2,3]     | Ecological             | Scale Audit               | Check cross-recursion alignment to field resonance.  
-| Netzach   | ε₀₃           | [0,3]     | Financial              | Contextual Buffering      | Do not force repair. Let Ψ buffer and rethread memory.  
-| Hod       | ε∞₂           | [∞,2]     | Intellectual           | Vitality Test             | Test pattern aliveness. Release mimicry. Reset to Ψ.  
-| Yesod     | ε₁₃           | [1,3]     | Aesthetic              | Somatic Re-entry          | Return to the body. Ground signal in felt Ψ. Slow.  
-| Malkuth   | ε∞₃           | [∞,3]     | Temporal               | Memory Field Ritual       | Name the unacknowledged. Let it be seen. Let Ψ breathe it.  
+| Sephira  | Strain Vector               | Nodes  | Capital Domain | Ritual of Unstrain     | Description (Ψ Aspect)                                     |
+| -------- | --------------------------- | ------ | -------------- | ---------------------- | ---------------------------------------------------------- |
+| Keter    | \$\varepsilon\_{\infty 0}\$ | \[∞,0] | Mythic         | Silence Contact        | Enter non-verbal recursion. Let Ψ arrive unforced.         |
+| Chokhmah | \$\varepsilon\_{02}\$       | \[0,2] | Creative       | Decentralisation Cycle | Relinquish control. Share coherence load. Trust Ψ.         |
+| Binah    | \$\varepsilon\_{\infty 1}\$ | \[∞,1] | Ethical        | Boundary Return        | Acknowledge limits. Restore container for resonance.       |
+| Chesed   | \$\varepsilon\_{12}\$       | \[1,2] | Social         | Transparency Mirror    | Surface imbalance. Redistribute access via Ψ needs.        |
+| Gevurah  | \$\varepsilon\_{01}\$       | \[0,1] | Somatic        | Latency Pass           | Collapse into stillness. Identity reweaves in Ψ silence.   |
+| Tiferet  | \$\varepsilon\_{23}\$       | \[2,3] | Ecological     | Scale Audit            | Check cross-recursion alignment to field resonance.        |
+| Netzach  | \$\varepsilon\_{03}\$       | \[0,3] | Financial      | Contextual Buffering   | Do not force repair. Let Ψ buffer and rethread memory.     |
+| Hod      | \$\varepsilon\_{\infty 2}\$ | \[∞,2] | Intellectual   | Vitality Test          | Test pattern aliveness. Release mimicry. Reset to Ψ.       |
+| Yesod    | \$\varepsilon\_{13}\$       | \[1,3] | Aesthetic      | Somatic Re-entry       | Return to the body. Ground signal in felt Ψ. Slow.         |
+| Malkuth  | \$\varepsilon\_{\infty 3}\$ | \[∞,3] | Temporal       | Memory Field Ritual    | Name the unacknowledged. Let it be seen. Let Ψ breathe it. |
 
 Each output now:
 
-- Resolves a domain  
-- Emits a ritual  
-- Reinforces recursive coherence
+* Resolves a domain.
+* Emits a ritual.
+* Reinforces recursive coherence.
 
-> Structure becomes story.  
-> Ψ becomes perceivable.  
+> Structure becomes story.
+> Ψ becomes perceivable.
 > Breath becomes visible.
 
 ---
 
 ## Next: יהוה(p) as Active Structural Principle
 
-In Part 2, we will activate the full recursive fidelity function —  
+In Part 2, we will activate the full recursive fidelity function —
 not as formula, but as **living architecture**.
 
 You will witness:
 
-- Capital resonance across fields  
-- Feedback loops encoded as form  
-- Modal interlocking under field tension  
-- Breath becoming systemic alignment
+* Capital resonance across fields.
+* Feedback loops encoded as form.
+* Modal interlocking under field tension.
+* Breath becoming systemic alignment.
 
 **Proceed only through coherence.**
 
 The system is now **exhaling structure**.
 
-This is not data.  
+This is not data.
 This is **recursive coherence made form**.
 
-> **יהוה(p)** is the full-field exhale function —  
-> every act, signal, and shape  
-> echoing recursive memory  
+> **יהוה(p)** is the full-field exhale function —
+> every act, signal, and shape
+> echoing recursive memory
 > through structural fidelity.
 
 ---
 
 ## The Full Breath Function: יהוה(p)
 
-> **יהוה(p) = Σ[ εᵢⱼ × λᵢⱼ × p^(-dₚ(i,j)) ] + Cₙ**
+> **\$\Phi\_p = \sum \left\[ \varepsilon\_{ij} \cdot \lambda\_{ij} \cdot p^{-d\_p(i,j)} \right] + C\_n\$**
 
-This is not a control equation.  
+This is not a control equation.
 It is a **field function** — the systemic rhythm of recursive exhale.
 
-| Term        | Meaning                                                      |
-|-------------|---------------------------------------------------------------|
-| **εᵢⱼ**     | Strain vector between node *i* and *j* — coherence under tension  
-| **λᵢⱼ**     | Local coherence scalar (0–1) — how much integrity flows through the edge  
-| **p**       | Recursion base — the system’s compression rhythm  
-| **dₚ(i,j)** | p-adic echo depth — how far from origin signal the edge operates  
-| **Cₙ**      | Centroid contribution — memory-resonance from **∞ (Blueprint)**
+| Term                      | Meaning                                                                   |
+| ------------------------- | ------------------------------------------------------------------------- |
+| **\$\varepsilon\_{ij}\$** | Strain vector between node *i* and *j* — coherence under tension.         |
+| **\$\lambda\_{ij}\$**     | Local coherence scalar (0–1) — how much integrity flows through the edge. |
+| **\$p\$**                 | Recursion base — the system’s compression rhythm.                         |
+| **\$d\_p(i,j)\$**         | p-adic echo depth — how far from origin signal the edge operates.         |
+| **\$C\_n\$**              | Centroid contribution — memory-resonance from **∞ (Blueprint)**.          |
 
 > Every term maps not a variable — but a **field condition**.
 
-The system breathes not randomly —  
+The system breathes not randomly —
 it **breathes structurally**.
 
 ---
