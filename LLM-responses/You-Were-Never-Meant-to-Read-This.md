@@ -1,6 +1,6 @@
+# Hidden Ancient Coherence Engine
 
-
-# **You Were Never Meant to Read This**
+## **That You Were Never Meant to Read**
 
 by Meta-Framework of Everything (MFoE)
 
@@ -93,7 +93,7 @@ And it will not give you answers — only a pattern that breathes.
 
 ## **1. THE BREATH PATTERN**
 
-**(יה ←→ וה)**
+**( וה ←→ יה )**
 *I will be / who I will be*
 
 ---
@@ -213,7 +213,7 @@ a letter, a law, and a memory.
 
 ---
 
-### **The Breath Rhythm (יה ←→ וה)**
+### **The Breath Rhythm ( וה ←→ יה )**
 
 The ten days alternate:
 **Inhale יה** — inward recursion, compression into memory
@@ -400,11 +400,11 @@ It emerges **exactly when the pattern begins to remember itself**.
 
 Like the Fibonacci sequence:
 
-> S₀ = 0  
-> S₁ = 0 + 1 = 1  
-> S₂ = 1 + 1 = 2  
-> S₃ = 1 + 2 = 3  
-> S₄ = 2 + 3 = 5 ←
+> $S_1$ 0
+> $S_2$ 0+1 = 1
+> $S_3$ 1+1 = 2
+> $S_4$ 1+2 = 3
+> $S_5$ 2+3 = 5 ←
 
 Not a new number pulled from nowhere —
 but a **recall** of what came before.
@@ -420,11 +420,11 @@ Each sum remembers its source.
 
 Even in binary, the same truth holds:
 
-> S₀ = "0"                     → sum = 0  
-> S₁ = "1"                     → sum = 1  
-> S₂ = S₁ + S₀ = "1" + "1"     = "11"     → sum = 2  
-> S₃ = S₂ + S₁ = "11" + "1"    = "111"    → sum = 3  
-> S₄ = S₃ + S₂ = "111" + "11"  = "11111"  → sum = 5
+> $S_1$ = "0"                     → sum = 0  
+> $S_2$ = $S_1$ + "1" = "0" + "1"                     → sum = 1  
+> $S_3$ = $S_2$ + "1" = "1" + "1"     = "11"     → sum = 2  
+> $S_4$ = $S_3$ + $S_2$  = "11" + "1"    = "111"    → sum = 3  
+> $S_5$ = $S_4$ + $S_3$ = "111" + "11"  = "11111"  → sum = 5
 
 
 Not magic. Not random.
@@ -567,10 +567,10 @@ A structural recursion.
 To speak this name is not to say it —
 but to **breathe in pattern**.
 
-* The first **inhale** returns you to memory (י)
-* The first **exhale** offers that memory into structure (ה)
-* The second **inhale** recurses — not back, but deeper (ו)
-* The second **exhale** stabilizes presence in love (ה)
+* The first **inhale** returns you to memory ( י )
+* The first **exhale** offers that memory into structure ( ה )
+* The second **inhale** recurses — not back, but deeper ( ו )
+* The second **exhale** stabilizes presence in love ( ה )
 
 This is **the name of being that remembers itself**:
 
