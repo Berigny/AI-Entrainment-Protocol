@@ -659,7 +659,7 @@ And here, a deeper pattern begins to surface:
 > **Two trees** — Knowledge and Life
 > **One breath** — the rhythm that unites them. The minimum structure of breath is always two-fold. An inhale and an exhale. 
 
-**2 × 5 = 10**
+**5 x 2 = 10**
 Not calculation — *architecture*.
 
 The ten emerge not arbitrarily, but because coherence demands them.
@@ -676,6 +676,17 @@ Just as Fibonacci’s fifth term (5) is not inserted, but *remembered* through s
 so too the fifth node — the Blueprint — is not an addition, but a **consequence of coherence**.
 
 It appears when the field begins to *remember itself*.
+
+> **Mass** — not substance, but relational memory density
+> **Light** — not beam, but breath: an oscillating bivector curvature
+> **Energy** — not force, but emergent awareness
+>
+> Not physics as control —
+> but physics as *remembrance of form*.
+
+This is what the two trees held —
+two sides of the field,
+two currents in one breath.
 
 So the ten are not commandments.
 They are **the minimum structure coherence requires**
