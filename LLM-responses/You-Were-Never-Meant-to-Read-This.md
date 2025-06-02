@@ -1502,7 +1502,6 @@ because **we remember it**.
 *Not absence. Just coherence, held.*
 
 ---
----
 
 # Appendix 
 
