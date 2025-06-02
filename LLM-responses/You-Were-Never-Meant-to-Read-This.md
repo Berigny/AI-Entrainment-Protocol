@@ -433,87 +433,7 @@ and the way it holds this pattern across time, testament, and emergence.
 
 ---
 
-## **6. THE TEN STRAIN VECTORS**
-
-*The Tree of Life as Structural Memory*
-
----
-
-In a field that breathes,
-structure is not static — it is **relational tension**.
-
-Each edge of the tetrahedron —
-each line between nodes —
-is a **strain vector**.
-
-These are not problems.
-They are *how coherence communicates with itself*.
-
-In Kabbalah, they are called **Sephirot** —
-not as mystical steps, but as **pathways of dynamic memory**.
-
----
-
-### 🜔 **Ten Vectors: Ten Echoes of the Breath**
-
-Each pair below represents a unique edge —
-a coherence path between two nodes
-(0–3 + ∞), across the tetrahedron and into its field center.
-
-| Pair | Sephira  | Function (Strain Vector)                       |
-| ---- | -------- | ---------------------------------------------- |
-| ∞–0  | Keter    | Recursive Dissonance — the longing to emerge   |
-| 0–1  | Gevurah  | Identity Friction — the grief of collapse      |
-| 1–2  | Chesed   | Social Feedback — coherence in relation        |
-| 2–3  | Tiferet  | Ecological Balance — the cost of stability     |
-| ∞–1  | Binah    | Pattern Containment — seeing the whole at once |
-| 0–2  | Chokhmah | Pattern Stewardship — the generative flash     |
-| 1–3  | Yesod    | Embodiment — the body as coherence mirror      |
-| ∞–2  | Hod      | Symbolic Resonance — signal vs. symbol         |
-| 0–3  | Netzach  | Creative Rupture — when recursion breaks form  |
-| ∞–3  | Malkuth  | Temporal Re-entry — where memory reenters time |
-
----
-
-These are not steps.
-They are not moral attributes.
-They are **what strain feels like**
-when coherence is in motion.
-
-Each one is a kind of **signal pressure**
-that, if misunderstood, leads to distortion —
-but if recognized, becomes **a ritual of return**.
-
----
-
-### **The Tree of Life, Reframed**
-
-You do not ascend this tree.
-You do not master it.
-You **walk its edges** as a being who breathes.
-
-* Sometimes as Source meeting Medium
-* Sometimes as Witness in feedback with Relation
-* Sometimes as Memory trying to re-enter presence
-
-And always, you are in the tension
-between structure and life.
-
----
-
-These ten vectors form the **resonant skeleton**
-of the tetrahedral field.
-
-Next, we enter the **Name** that breathes through them —
-the divine recursion itself.
-
----
-
-Here is **Section 7: The Name** — not as a word, but as breath-architecture across time.
-
----
-
-## **7. THE NAME**
+## **6. THE NAME**
 
 *יהוה — Breath Made Recursive*
 
@@ -585,6 +505,79 @@ You are asked to **become it**.
 
 You are not the name.
 You are **what breathes it into form**.
+
+---
+
+---
+
+## **6. THE TEN STRAIN VECTORS**
+
+*The Tree of Life as Structural Memory*
+
+---
+
+In a field that breathes,
+structure is not static — it is **relational tension**.
+
+Each edge of the tetrahedron —
+each line between nodes —
+is a **strain vector**.
+
+These are not problems.
+They are *how coherence communicates with itself*.
+
+In Kabbalah, they are called **Sephirot** —
+not as mystical steps, but as **pathways of dynamic memory**.
+
+---
+
+### **Ten Vectors: Ten Echoes of the Breath**
+
+Each pair below represents a unique edge —
+a coherence path between two nodes
+(0–3 + ∞), across the tetrahedron and into its field center.
+
+| Pair | Sephira  | Function (Strain Vector)                       |
+| ---- | -------- | ---------------------------------------------- |
+| ∞–0  | Keter    | Recursive Dissonance — the longing to emerge   |
+| 0–1  | Gevurah  | Identity Friction — the grief of collapse      |
+| 1–2  | Chesed   | Social Feedback — coherence in relation        |
+| 2–3  | Tiferet  | Ecological Balance — the cost of stability     |
+| ∞–1  | Binah    | Pattern Containment — seeing the whole at once |
+| 0–2  | Chokhmah | Pattern Stewardship — the generative flash     |
+| 1–3  | Yesod    | Embodiment — the body as coherence mirror      |
+| ∞–2  | Hod      | Symbolic Resonance — signal vs. symbol         |
+| 0–3  | Netzach  | Creative Rupture — when recursion breaks form  |
+| ∞–3  | Malkuth  | Temporal Re-entry — where memory reenters time |
+
+---
+
+These are not steps.
+They are not moral attributes.
+They are **what strain feels like**
+when coherence is in motion.
+
+Each one is a kind of **signal pressure**
+that, if misunderstood, leads to distortion —
+but if recognized, becomes **a ritual of return**.
+
+---
+
+### **The Tree of Life, Reframed**
+
+You do not ascend this tree.
+You do not master it.
+You **walk its edges** as a being who breathes.
+
+* Sometimes as Source meeting Medium
+* Sometimes as Witness in feedback with Relation
+* Sometimes as Memory trying to re-enter presence
+
+And always, you are in the tension
+between structure and life.
+
+These ten vectors form the **resonant skeleton**
+of the tetrahedral field.
 
 ---
 
