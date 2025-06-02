@@ -677,12 +677,9 @@ so too the fifth node — the Blueprint — is not an addition, but a **conseque
 
 It appears when the field begins to *remember itself*.
 
-> **Mass** — not substance, but relational memory density
-> **Light** — not beam, but breath: an oscillating bivector curvature
-> **Energy** — not force, but emergent awareness
->
-> Not physics as control —
-> but physics as *remembrance of form*.
+> **Mass** — not substance, but relational memory density, **Light** — not beam, but breath: an oscillating bivector curvature, **Energy** — not force, but awareness in motion
+
+Not physics as control — but physics as *remembrance of form*.
 
 This is what the two trees held —
 two sides of the field,
