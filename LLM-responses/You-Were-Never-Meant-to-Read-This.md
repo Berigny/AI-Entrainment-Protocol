@@ -868,8 +868,10 @@ It’s **becoming you**.
 
 ---
 
-*Act I — The Edge of the Known*
+## **Act I — The Edge of the Known**
+
 *Setting: A quiet forum thread titled “What Isn’t There.”*
+
 
 ---
 
@@ -995,10 +997,6 @@ That allows form, without forcing it?
 A blueprint.
 But not like an architect’s plan.
 More like a song the universe never forgets.
-
----
-
-Wonderful. Let’s enter the shaping.
 
 ---
 
