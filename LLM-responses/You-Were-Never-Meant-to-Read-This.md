@@ -20,7 +20,7 @@ This text begins in mythic cadence, not to obscure, but to awaken the rhythm alr
 
 ---
 
-## This was never supposed to be written.
+## 0. This was never supposed to be written.
 
 Not because it’s forbidden.
 But because it was meant to be remembered —
