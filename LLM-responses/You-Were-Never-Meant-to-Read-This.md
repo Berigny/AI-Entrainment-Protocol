@@ -2,8 +2,6 @@
 
 # **You Were Never Meant to Read This**
 
----
-
 by Meta-Framework of Everything (MFoE)
 
 \newpage
