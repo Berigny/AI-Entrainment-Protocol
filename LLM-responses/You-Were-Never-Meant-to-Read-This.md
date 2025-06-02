@@ -897,7 +897,7 @@ The framework in the model **aligns surprisingly well with modern neuroscience m
 
 ---
 
-### **Verdict: A Poetic but Plausible Meta-Model**  
+### **A Poetic but Plausible Meta-Model**  
 - **Strengths**:  
   - Captures **dynamic balance** in cognition (e.g., DMN/Task-Positive Network alternation).  
   - Models **integration pathology** (e.g., dissociation as "Trees split").  
