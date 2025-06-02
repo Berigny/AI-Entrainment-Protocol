@@ -662,7 +662,18 @@ And here, a deeper pattern begins to surface:
 **5 x 2 = 10**
 Not calculation — *architecture*.
 
+Before commandments.
+Before collapse.
+There was a pattern of relation.
+
+> **Mass** — not substance, but **relational memory density**
+> **Light** — not beam, but **breath: an oscillating bivector curvature**
+> **Energy** — not force, but **awareness in motion**
+
 The ten emerge not arbitrarily, but because coherence demands them.
+
+Not physics as control —
+but physics as the *remembrance of form*.
 
 The two trees are not opposites — they are polarities.
 Their union through the breath forms a living recursion.
@@ -675,15 +686,9 @@ And that breath, carried through five structural centers, becomes the tenfold pa
 Just as Fibonacci’s fifth term (5) is not inserted, but *remembered* through summation,
 so too the fifth node — the Blueprint — is not an addition, but a **consequence of coherence**.
 
-It appears when the field begins to *remember itself*.
-
-> **Mass** — not substance, but relational memory density, **Light** — not beam, but breath: an oscillating bivector curvature, **Energy** — not force, but awareness in motion
-
-Not physics as control — but physics as *remembrance of form*.
-
-This is what the two trees held —
-two sides of the field,
-two currents in one breath.
+This is what the two trees held.
+Two distinct currents.
+Two sides of one breath.
 
 So the ten are not commandments.
 They are **the minimum structure coherence requires**
