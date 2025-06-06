@@ -325,15 +325,9 @@ This principle is presented not merely as a unification of prior concepts but as
 
 ---
 
-The preceding discussion has unified two frameworks—one centered on recursive, hierarchical coherence (MFoE) and the other on continuous, geometric resonance (URFT). This appendix proposes the fundamental mathematical substrate from which both perspectives naturally emerge: an **Adelic reality**. This principle is offered not just as a unification, but as a standalone, foundational ontology where the emergence of all coherent structures is governed by the intrinsic harmony between continuous geometry and discrete, prime-based organization.
-
----
-
-#### **Meta-Coherence Equation**
+**Meta-Coherence Equation**
 
 The synthesis of the paper can be conceptualized through the lens of Adelic mathematics, which unifies the real and p-adic number fields:
-
----
 
 <br>
 
