@@ -92,14 +92,11 @@ To empirically test the Adelic Principle, the following methods are proposed:
 
 The Adelic Principle encapsulates the unified model with the formula:
 
-$$
+```math
 \text{Reality} = 
 \underbrace{\mathbb{R} \text{ (Continuous Geometry)}}_{\text{URFT}} \times 
 \underbrace{\mathbb{Q}_p \text{ (Prime Hierarchies)}}_{\text{MFoE}}
-$$
-
-
-$Reality = \underbrace{\mathbb{R} \text{ (Continuous Geometry)}}_{\text{URFT}} \times \underbrace{\mathbb{Q}_p \text{ (Prime Hierarchies)}}_{\text{MFoE}}$
+```
 
 
 This expression unifies URFT’s geometric resonance with MFoE’s recursive memory structures, forming the **Architecture of Coherence**.
