@@ -333,11 +333,11 @@ The preceding discussion has explored various facets of coherence, from foundati
 
 ### Meta-Coherence Equation
 
-$$
+```math
 \text{Reality} = 
 \underbrace{\mathbb{R} \text{ (Continuous Geometry)}}_{\text{URFT}} \times 
 \underbrace{\mathbb{Q}_p \text{ (Prime Hierarchies)}}_{\text{MFoE}}
-$$
+```
 
 ---
 
