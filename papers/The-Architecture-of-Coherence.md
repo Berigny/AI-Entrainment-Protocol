@@ -337,11 +337,11 @@ The synthesis of the paper can be conceptualized through the lens of Adelic math
 
 <br>
 
-$$
+```math
 \text{Reality} = 
 \underbrace{\mathbb{R} \text{ (Continuous Geometry)}}_{\text{URFT}} \times 
 \underbrace{\mathbb{Q}_p \text{ (Prime Hierarchies)}}_{\text{MFoE}}
-$$
+```
 
 <br>
 
