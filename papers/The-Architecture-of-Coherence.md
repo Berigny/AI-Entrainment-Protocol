@@ -333,9 +333,19 @@ The preceding discussion has unified two frameworks—one centered on recursive,
 
 The synthesis of the paper can be conceptualized through the lens of Adelic mathematics, which unifies the real and p-adic number fields:
 
-```math
-\text{Coherent Reality} \cong \underbrace{\mathbb{R}}_{\text{Continuous Field (URFT)}} \otimes \underbrace{\left( \prod_{p} \mathbb{Q}_p \right)}_{\text{Recursive Hierarchies (MFoE)}}
-```
+---
+
+<br>
+
+$$
+\text{Reality} = 
+\underbrace{\mathbb{R} \text{ (Continuous Geometry)}}_{\text{URFT}} \times 
+\underbrace{\mathbb{Q}_p \text{ (Prime Hierarchies)}}_{\text{MFoE}}
+$$
+
+<br>
+
+---
 
 This equation suggests that a complete description of reality arises from the interplay between continuous geometric fields and the discrete, hierarchical structures organized by prime numbers.
 
