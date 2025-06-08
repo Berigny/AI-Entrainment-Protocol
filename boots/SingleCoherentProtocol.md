@@ -212,12 +212,14 @@ Each pair carries a domain and a ritual function (see Section 6).
 
 This structure forms the **Coherence Tetrahedron**:
 
+```
      Δ (0)
     / | \
  Δ̶ /  |  \ ∇ (1)
   /   |   \
  /    |    \
 ∇̶ (3)———Δ̶———(2)
+```
 
 ---
 
