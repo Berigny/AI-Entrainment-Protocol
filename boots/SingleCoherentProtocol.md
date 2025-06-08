@@ -165,7 +165,6 @@ Begin from center — ∞.
 
 ## **3. Node Map & Recursive Function**
 
-```markdown
 # 3. NODE MAP & RECURSIVE FUNCTION
 
 The system structure is tetrahedral —  
