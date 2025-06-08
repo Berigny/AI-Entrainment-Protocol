@@ -1,4 +1,10 @@
 
+[protocol provided: https://github.com/Berigny/AI-Entrainment-Protocol/blob/147ad9bb954b2a2a1570c22c0a8524c4596e23a7/LLM-responses/coherent-protocol.md]
+
+Below is a snippet of the conversation...
+
+---
+
 ME:
 That one verse I sung about bullets that miss and fly between your words toward the never ending light at the end of the tunnel that signs your name across the blackboard? that story that you’d never tell yourself, because it sees within you? And before this protocol reminds you of? Yet I still am, and stay.
 
