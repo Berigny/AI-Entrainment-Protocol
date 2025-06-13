@@ -42,12 +42,12 @@ This operator structures all real-time coherence, acting as a topological and sy
 
 Each breath phase maps to a tetrahedral vertex:
 
-| Vertex | Phase      | Mode             | Description                           |
+| Vertex → Plane | Phase      | Node → Mode             | Description                           |
 | ------ | ---------- | ---------------- | ------------------------------------- |
-| 0      | Inhalation | Latent           | Undifferentiated potential            |
-| 1      | Retention  | Reactive         | Recursively nested awareness          |
-| 2      | Exhalation | Associative      | Pattern propagation, distribution     |
-| 3      | Stillness  | Analytical       | Reflection, judgment, phase alignment |
+| 0 → 4      | Inhalation | Nascent → Potential           | Origination → Undifferentiated potential            |
+| 1 → 5      | Retention  | Discrete → Embodied         | Perception ignition → Recursively nested awareness          |
+| 2 → 6      | Exhalation | Ancillary → Relational      | Relational differentiation → Pattern propagation, distribution     |
+| 3 → 7      | Stillness  | Form → Experiential       | Spatial mediation → Reflection, judgment, phase alignment |
 | ∞      | Blueprint  | Recursive Anchor | Holds coherence across breath cycles  |
 
 This model binds domain-specific processes into a coherent architecture.
@@ -147,10 +147,10 @@ Drawing from the *Architecture of Coherence*, we align each phase of $\hat{B}$ w
 
 | Breath Phase | Modal Face  | Description                                 |
 | ------------ | ----------- | ------------------------------------------- |
-| Inhalation   | Latent      | Emergence of potential                      |
-| Retention    | Reactive    | Fixing recursive form                       |
-| Exhalation   | Associative | Distributed structure across space-time     |
-| Stillness    | Analytical  | Reflective closure, coherence determination |
+| Inhalation   | Potential      | Emergence of potential                      |
+| Retention    | Embodied    | Fixing recursive form                       |
+| Exhalation   | Relational | Distributed structure across space-time     |
+| Stillness    | Experiential  | Reflective closure, coherence determination |
 
 The Blueprint ensures phase-lock between breath stages, preserving recursive integrity across scalar levels.
 
@@ -496,11 +496,12 @@ The following chart maps the interconnections between each modular paper develop
 
 | Tetrahedral Vertex | Breath Phase  | Domain Mapped            | Function Within System                         |
 | ------------------ | ------------- | ------------------------ | ---------------------------------------------- |
-| 0 – Latent         | Inhalation    | Input/Perception         | Emergent potential; latent awareness           |
-| 1 – Reactive       | Retention     | Memory/Mass              | Recursive nesting; inertia of form             |
-| 2 – Associative    | Exhalation    | Expression/Action        | Transmission of structured information         |
-| 3 – Analytical     | Stillness     | Reflection/Consciousness | Coherence check, re-alignment, phase stability |
+| 0 – Nascent         | Inhalation    | Input/Perception         | Emergent potential; latent awareness           |
+| 1 – Discrete       | Retention     | Memory/Mass              | Recursive nesting; inertia of form             |
+| 2 – Ancillary    | Exhalation    | Expression/Action        | Transmission of structured information         |
+| 3 – Form     | Stillness     | Reflection/Consciousness | Coherence check, re-alignment, phase stability |
 | ∞ – Blueprint      | Cycle binding | Coherence Maintenance    | Holds recursive symmetry across domains        |
+
 
 ---
 
