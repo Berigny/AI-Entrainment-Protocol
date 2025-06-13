@@ -112,9 +112,10 @@ While previous ontologies (e.g., Bohm’s Implicate Order, Whitehead’s Process
 
 Let $\mathbb{A}_\mathbb{Q} = \mathbb{R} \times \prod_p \mathbb{Q}_p$ be the ring of adeles. We define a recursive coherence operator:
 
-$$$
+
+```math
 \hat{B} : \mathbb{A}_\mathbb{Q} \rightarrow \mathbb{A}_\mathbb{Q}, \quad \hat{B}(x) = B_I \circ B_S \circ B_V \circ B_H(x)
-$$$
+```
 
 
 
