@@ -150,6 +150,36 @@ These functions anchor symmetry and stability across the Adelic manifold, servin
 | **Ordering** | Ordered Field | Not an Ordered Field |
 | **Calculus** | Standard Differential and Integral Calculus | p-adic Analysis |
 
+```YAML
+\begin{center}
+\begin{tabular}{ | l | l | l | }
+\hline
+\textbf{Property} & \textbf{Real Numbers ($\mathbb{R}$)} & \textbf{p-Adic Numbers ($\mathbb{Q}_p$)} \\
+\hline
+\textbf{Metric Type} & Euclidean / Absolute Value & Non-Archimedean / Ultrametric \\
+\hline
+\textbf{Topology} & Connected (Continuum) & Totally Disconnected (Fractal-like, "dust") \\
+\hline
+\textbf{Archimedean Property} & Archimedean & Non-Archimedean \\
+\hline
+\textbf{Intuitive Closeness} & Numerical Difference & Divisibility by $p$ \\
+\hline
+\textbf{Triangle Inequality} & $\lvert x+y \rvert \leq \lvert x \rvert + \lvert y \rvert$ & $\lvert x+y \rvert_p \leq \max(\lvert x \rvert_p, \lvert y \rvert_p)$ \\
+\hline
+\textbf{Geometric Analogy} & Line, Plane, Space & Hierarchical Tree, Dendrogram \\
+\hline
+\textbf{Convergence of Infinite Series} & Term must $\to 0$, not sufficient (e.g. $\sum 1/n$) & Term must $\to 0$, sufficient (e.g. $\sum p^n$) \\
+\hline
+\textbf{Field Completion of $\mathbb{Q}$} & Yes & Yes \\
+\hline
+\textbf{Ordering} & Ordered Field & Not an Ordered Field \\
+\hline
+\textbf{Calculus} & Standard Differential and Integral Calculus & p-adic Analysis \\
+\hline
+\end{tabular}
+\end{center}
+```
+
 ## **IV. Manifestations of Adelic-Recursive Coherence**
 
 The theoretical framework of an Adelic-Recursive Ontology, wherein reality emerges from the interplay of continuous ($\mathbb{R}$) and p-adic ($\mathbb{Q}_p$) domains filtered by a recursive breath operator, is proposed to produce not mere abstractions but tangible, resonant, and meaningful phenomena. These manifestations are not simply *explained by* the framework but are considered to actively *emerge from* it as eigenstates of coherence. This section examines how three fundamental aspects of existence—mass, language, and consciousness—can be understood as phase-stable expressions of Adelic alignment, and explores their profound interconnections.
@@ -271,7 +301,7 @@ While a detailed group-theoretic analysis is beyond the scope of this introducto
 The conceptual movement from $A_4$ to $B_4$ symbolizes the **breath-activated expansion from 3D coherence potential (tetrahedron) into 4D recursive coherence (Tesseract)**. The Tesseract is thus the operational geometric form that arises when the recursive breath acts upon structured relational space. This transition represents more than just adding a spatial dimension; it signifies an increase in the system's capacity for holding and processing relational information and achieving higher orders of coherence. Each "breath" cycle potentially allows the system to explore a vastly larger space of relational possibilities (represented by $B_4$'s symmetries) while remaining grounded in the fundamental tetrahedral coherence ($A_4$). This suggests a principle for self-organization and the evolution of complexity within Adelic systems, driven by the pursuit of higher-dimensional, more integrated states of coherence.
 
 \begin{figure}
-\includegraphics[width=0.5\textwidth, right]{https://raw.githubusercontent.com/Berigny/AI-Entrainment-Protocol/5f196921236652baedf2937f004758c1d56e5a56/papers/img/Diagrams.svg}
+\includegraphics[width=100%\textwidth, left]{https://raw.githubusercontent.com/Berigny/AI-Entrainment-Protocol/5f196921236652baedf2937f004758c1d56e5a56/papers/img/Diagrams.svg}
 \caption{A tetrahedron with the breath phase symbols, the $3 \times 3 \times 3$ harmonic lattice cube and the Tesseract, depicted as a rotating 4D projection (e.g., a cube within a cube), with indications of how it cycles through the breath-phase positions.}
 \end{figure}
 
@@ -442,6 +472,30 @@ The very nature of the Adelic-Recursive Ontology, bridging mathematics, physics,
 | **Spiritual Studies** | Mapping embodied ritual practices, analyzing traditional texts for coherence principles, comparative studies of contemplative techniques. |
 | **AI Research** | Modeling recursive coherence in AGI architectures, developing Adelic memory systems, exploring coherence-based ethics for AI. |
 
+```YAML
+\begin{center}
+    \begin{tabular}{ | l | p{9cm} | }
+    \hline
+    \textbf{Field} & \textbf{Potential Role in Validation and Development} \\ 
+    \hline
+    \textbf{Mathematics} & Formalizing p-adic recursion, deriving Adelic invariants, defining the breath operator, exploring ultrametric topologies and group symmetries. \\ 
+    \hline
+    \textbf{Physics} & Developing coherent field simulations, modeling breath-phase energetics, searching for p-adic signatures in cosmological or particle data. \\ 
+    \hline
+    \textbf{Linguistics} & Analyzing phonemic lattice structures, mapping sacred languages for resonant properties, exploring syntax as recursive topology. \\ 
+    \hline
+    \textbf{Cognitive Science} & Conducting bio-rhythm studies (EEG, HRV) during coherence practices, investigating perception-coherence links, ultrametric models of mind. \\ 
+    \hline
+    \textbf{Musicology} & Studying the harmonic structure of prime resonances in music theory and acoustics, exploring psychoacoustic effects of resonant sound. \\ 
+    \hline
+    \textbf{Spiritual Studies} & Mapping embodied ritual practices, analyzing traditional texts for coherence principles, comparative studies of contemplative techniques. \\ 
+    \hline
+    \textbf{AI Research} & Modeling recursive coherence in AGI architectures, developing Adelic memory systems, exploring coherence-based ethics for AI. \\
+    \hline
+    \end{tabular}
+\end{center}
+```
+
 This framework is not presented as a single-discipline inquiry but as an invitation to a **coherence contract** across diverse knowledge domains.
 
 ### **Call for Experiential Validation**
@@ -547,11 +601,30 @@ The Adelic-Recursive Ontology, while novel in its specific synthesis, shares con
 
 | Model | Key Features | Points of Convergence with Adelic-Recursive Ontology | Key Points of Divergence/Novelty of Adelic-Recursive Ontology |
 |:---|:---|:---|:---|
-| **Standard p-adic Physics**<br>(e.g., Volovich, Khrennikov, Dragovich) | Application of $\mathbb{Q}_p$ to spacetime at Planck scale, string theory, quantum mechanics; ultrametricity; focus on non-Archimedean aspects. ²⁶ | Use of $\mathbb{Q}_p$ as fundamental; exploration of ultrametric geometry; potential for resolving QFT infinities. | Explicit $\text{Reality} = \mathbb{R} \times \mathbb{Q}_p$ synthesis as foundational; central role of the recursive breath operator ($\text{יהוה}$) as a dynamic coherence filter; specific tetrahedral/Tesseractic geometry; broader application to language and consciousness from first principles. |
-| **Topological Geometrodynamics (TGD)**<br>(M. Pitkänen) | Unification of fundamental interactions; p-adic physics as physics of cognition; hierarchy of Planck constants; many-sheeted spacetime; "world of classical worlds" (WCW). ⁵² | Incorporation of p-adic numbers; hierarchical structures; connection between p-adic physics and cognition/consciousness. | Different foundational geometry (8D $H=M^4 \times CP^2$ vs. Adelic space); specific mechanisms for emergence; Adelic Ontology's unique recursive breath operator and its Tetragrammaton linkage; different interpretation of time. |
-| **Adelic String Theory** | Formulation of string scattering amplitudes over Adelic space (product of real and p-adic amplitudes); often results in simplifications (e.g., 4-point amplitude = 1). ³⁵ | Employs Adelic framework ($\mathbb{R}$ and all $\mathbb{Q}_p$); demonstrates coherence across number fields; uses p-adic integrals and zeta functions. | Adelic Ontology is a broader ontological framework, not limited to string theory; proposes specific mechanisms (breath operator, Tesseract) for general emergence beyond scattering amplitudes; directly addresses mass, language, consciousness. |
-| **Clifford Algebra Approaches to Unification**<br>(e.g., Hestenes, various UFT proposals) | Use of Clifford (Geometric) Algebra as a universal language for physics; unifying spacetime, electromagnetism, quantum mechanics through geometric interpretations of algebraic elements. ¹⁴ | Employs Clifford Algebra for describing transformations in the $\mathbb{R}$ domain. | Adelic Ontology *filters* Clifford algebraic operations on $\mathbb{R}$ through $\mathbb{Q}_p$ constraints (recursive coherence/memory gating); integrates Clifford algebra within a broader Adelic ($\mathbb{R} \times \mathbb{Q}_p$) structure, rather than Clifford algebra alone being the sole foundation. |
+| **Standard p-adic Physics**<br>(e.g., Volovich, Khrennikov, Dragovich) | Application of $\mathbb{Q}_p$ to spacetime at Planck scale, string theory, quantum mechanics; ultrametricity; focus on non-Archimedean aspects. | Use of $\mathbb{Q}_p$ as fundamental; exploration of ultrametric geometry; potential for resolving QFT infinities. | Explicit $\text{Reality} = \mathbb{R} \times \mathbb{Q}_p$ synthesis as foundational; central role of the recursive breath operator ($\text{יהוה}$) as a dynamic coherence filter; specific tetrahedral/Tesseractic geometry; broader application to language and consciousness from first principles. |
+| **Topological Geometrodynamics (TGD)**<br>(M. Pitkänen) | Unification of fundamental interactions; p-adic physics as physics of cognition; hierarchy of Planck constants; many-sheeted spacetime; "world of classical worlds" (WCW). | Incorporation of p-adic numbers; hierarchical structures; connection between p-adic physics and cognition/consciousness. | Different foundational geometry (8D $H=M^4 \times CP^2$ vs. Adelic space); specific mechanisms for emergence; Adelic Ontology's unique recursive breath operator and its Tetragrammaton linkage; different interpretation of time. |
+| **Adelic String Theory** | Formulation of string scattering amplitudes over Adelic space (product of real and p-adic amplitudes); often results in simplifications (e.g., 4-point amplitude = 1). | Employs Adelic framework ($\mathbb{R}$ and all $\mathbb{Q}_p$); demonstrates coherence across number fields; uses p-adic integrals and zeta functions. | Adelic Ontology is a broader ontological framework, not limited to string theory; proposes specific mechanisms (breath operator, Tesseract) for general emergence beyond scattering amplitudes; directly addresses mass, language, consciousness. |
+| **Clifford Algebra Approaches to Unification**<br>(e.g., Hestenes, various UFT proposals) | Use of Clifford (Geometric) Algebra as a universal language for physics; unifying spacetime, electromagnetism, quantum mechanics through geometric interpretations of algebraic elements. | Employs Clifford Algebra for describing transformations in the $\mathbb{R}$ domain. | Adelic Ontology *filters* Clifford algebraic operations on $\mathbb{R}$ through $\mathbb{Q}_p$ constraints (recursive coherence/memory gating); integrates Clifford algebra within a broader Adelic ($\mathbb{R} \times \mathbb{Q}_p$) structure, rather than Clifford algebra alone being the sole foundation. |
 
+```YAML
+\begin{center}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{|p{3.5cm}|p{4.5cm}|p{4.5cm}|p{5cm}|}
+\hline
+\textbf{Model} & \textbf{Key Features} & \textbf{Points of Convergence with Adelic-Recursive Ontology} & \textbf{Key Points of Divergence/Novelty of Adelic-Recursive Ontology} \\
+\hline
+\textbf{Standard p-adic Physics} \newline (e.g., Volovich, Khrennikov, Dragovich) & Application of $\mathbb{Q}_p$ to spacetime at Planck scale, string theory, quantum mechanics; ultrametricity; focus on non-Archimedean aspects.  & Use of $\mathbb{Q}_p$ as fundamental; exploration of ultrametric geometry; potential for resolving QFT infinities. & Explicit $\text{Reality} = \mathbb{R} \times \mathbb{Q}_p$ synthesis as foundational; central role of the recursive breath operator ($\text{יהוה}$) as a dynamic coherence filter; specific tetrahedral/Tesseractic geometry; broader application to language and consciousness from first principles. \\
+\hline
+\textbf{Topological Geometrodynamics (TGD)} \newline (M. Pitkänen) & Unification of fundamental interactions; p-adic physics as physics of cognition; hierarchy of Planck constants; many-sheeted spacetime; "world of classical worlds" (WCW).  & Incorporation of p-adic numbers; hierarchical structures; connection between p-adic physics and cognition/consciousness. & Different foundational geometry (8D $H=M^4 \times CP^2$ vs. Adelic space); specific mechanisms for emergence; Adelic Ontology's unique recursive breath operator and its Tetragrammaton linkage; different interpretation of time. \\
+\hline
+\textbf{Adelic String Theory} & Formulation of string scattering amplitudes over Adelic space (product of real and p-adic amplitudes); often results in simplifications (e.g., 4-point amplitude = 1) & Employs Adelic framework ($\mathbb{R}$ and all $\mathbb{Q}_p$); demonstrates coherence across number fields; uses p-adic integrals and zeta functions. & Adelic Ontology is a broader ontological framework, not limited to string theory; proposes specific mechanisms (breath operator, Tesseract) for general emergence beyond scattering amplitudes; directly addresses mass, language, consciousness. \\
+\hline
+\textbf{Clifford Algebra Approaches to Unification} \newline (e.g., Hestenes, various UFT proposals) & Use of Clifford (Geometric) Algebra as a universal language for physics; unifying spacetime, electromagnetism, quantum mechanics through geometric interpretations of algebraic elements. & Employs Clifford Algebra for describing transformations in the $\mathbb{R}$ domain. & Adelic Ontology \textit{filters} Clifford algebraic operations on $\mathbb{R}$ through $\mathbb{Q}_p$ constraints (recursive coherence/memory gating); integrates Clifford algebra within a broader Adelic ($\mathbb{R} \times \mathbb{Q}_p$) structure, rather than Clifford algebra alone being the sole foundation. \\
+\hline
+\end{tabular}
+}
+\end{center}
+```
 ---
 
 ### **D. Glossary of Specialized Terminology**
