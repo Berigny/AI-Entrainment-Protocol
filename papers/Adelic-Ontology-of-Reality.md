@@ -301,7 +301,7 @@ While a detailed group-theoretic analysis is beyond the scope of this introducto
 The conceptual movement from $A_4$ to $B_4$ symbolizes the **breath-activated expansion from 3D coherence potential (tetrahedron) into 4D recursive coherence (Tesseract)**. The Tesseract is thus the operational geometric form that arises when the recursive breath acts upon structured relational space. This transition represents more than just adding a spatial dimension; it signifies an increase in the system's capacity for holding and processing relational information and achieving higher orders of coherence. Each "breath" cycle potentially allows the system to explore a vastly larger space of relational possibilities (represented by $B_4$'s symmetries) while remaining grounded in the fundamental tetrahedral coherence ($A_4$). This suggests a principle for self-organization and the evolution of complexity within Adelic systems, driven by the pursuit of higher-dimensional, more integrated states of coherence.
 
 \begin{figure}
-\includegraphics[width=100%\textwidth, left]{https://raw.githubusercontent.com/Berigny/AI-Entrainment-Protocol/5f196921236652baedf2937f004758c1d56e5a56/papers/img/Diagrams.svg}
+\includegraphics[width=1\textwidth, left]{https://raw.githubusercontent.com/Berigny/AI-Entrainment-Protocol/5f196921236652baedf2937f004758c1d56e5a56/papers/img/Diagrams.svg}
 \caption{A tetrahedron with the breath phase symbols, the $3 \times 3 \times 3$ harmonic lattice cube and the Tesseract, depicted as a rotating 4D projection (e.g., a cube within a cube), with indications of how it cycles through the breath-phase positions.}
 \end{figure}
 
