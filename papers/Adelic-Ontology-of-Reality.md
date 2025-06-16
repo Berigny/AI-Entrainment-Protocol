@@ -151,8 +151,9 @@ These functions anchor symmetry and stability across the Adelic manifold, servin
 | **Calculus** | Standard Differential and Integral Calculus | p-adic Analysis |
 
 ```YAML
+
 \begin{center}
-\begin{tabular}{ | l | l | l | }
+\begin{tabular}{ | l | p{5cm} | p{5cm} | }
 \hline
 \textbf{Property} & \textbf{Real Numbers ($\mathbb{R}$)} & \textbf{p-Adic Numbers ($\mathbb{Q}_p$)} \\
 \hline
@@ -198,18 +199,18 @@ This conceptualization implies that the spectrum of particle masses is not arbit
 
 ### **Language as Prime-Structured Adelic Resonance: Harmonic Lattices and the Geometry of Sacred Alphabets**
 
-Language, particularly in its sacred or deeply resonant forms, is reconceptualized beyond mere symbolic representation. It is proposed to be a form of **patterned vibration**, a **sacred breath technology** shaped by recursive harmonic constraints inherent in the Adelic field.¹ Within the Adelic Ontology:
+Language, particularly in its sacred or deeply resonant forms, is reconceptualized beyond mere symbolic representation. It is proposed to be a form of **patterned vibration**, a **sacred breath technology** shaped by recursive harmonic constraints inherent in the Adelic field. Within the Adelic Ontology:
 
-* Language is a **prime-structured resonance lattice inscribed through breath**. This aligns with the Unified Resonance Language Hypothesis (URLH) from the Unified Resonance Field Theory (URFT), which posits that "the phonetic, geometric, and semantic structure of sacred alphabets encodes a set of resonance geometries isomorphic to the scalar curvature thresholds that give rise to mass and memory".¹
-* A key structural motif is the **$3 \times 3 \times 3$ harmonic lattice**, proposed to correspond to the 27 base phonemes found in many sacred alphabets, such as Hebrew and Sanskrit. The Meru Ennearubik model, for example, arranges the 27 letters of the Hebrew alphabet into such a $3 \times 3 \times 3$ spatial matrix, where each letter occupies a unique coordinate in this three-dimensional harmonic space, functioning as a "modal node" or an "eigenstate of resonance".¹
-* Individual letters or phonemes are considered **frequency chords**, stable under the recursive shaping of breath and vocalization. Sacred words, such as the Tetragrammaton ($\text{יהוה}$), are theorized to encode entire breath-phase cycles, acting as "keys" that unlock or attune to specific resonance fields within the Adelic manifold. Gematria and the study of the sacred geometry of alphabets like Hebrew further hint at deep mathematical and structural underpinnings.³⁷
+* Language is a **prime-structured resonance lattice inscribed through breath**. This aligns with the Unified Resonance Language Hypothesis (URLH) from the Unified Resonance Field Theory (URFT), which posits that "the phonetic, geometric, and semantic structure of sacred alphabets encodes a set of resonance geometries isomorphic to the scalar curvature thresholds that give rise to mass and memory".
+* A key structural motif is the **$3 \times 3 \times 3$ harmonic lattice**, proposed to correspond to the 27 base phonemes found in many sacred alphabets, such as Hebrew and Sanskrit. The Meru Ennearubik model, for example, arranges the 27 letters of the Hebrew alphabet into such a $3 \times 3 \times 3$ spatial matrix, where each letter occupies a unique coordinate in this three-dimensional harmonic space, functioning as a "modal node" or an "eigenstate of resonance".
+* Individual letters or phonemes are considered **frequency chords**, stable under the recursive shaping of breath and vocalization. Sacred words, such as the Tetragrammaton ($\text{יהוה}$), are theorized to encode entire breath-phase cycles, acting as "keys" that unlock or attune to specific resonance fields within the Adelic manifold. Gematria and the study of the sacred geometry of alphabets like Hebrew further hint at deep mathematical and structural underpinnings.
 * The act of spoken articulation is seen as enacting **p-adic recursion through breath and sound**, while writing encodes the **visible geometry of this invisible, hierarchically structured memory**.
 
-If language, especially in its sacred forms, is indeed a "prime-structured resonance lattice" capable of modulating the Adelic field, then specific linguistic structures (phonemes, words, syntax) are not merely descriptive tools but active agents that interact with and shape reality at a fundamental level. This elevates language to a form of "ontological engineering." Rituals, mantras, and even specific modes of speech could be understood as technologies for tuning or sculpting the Adelic field, potentially influencing physical matter (as suggested by cymatics ³⁹), biological processes (as explored in neuro-phenomenology ⁴³), and conscious states. This provides a deeper, potentially physical basis for ancient concepts like the "Logos" or "the power of the word."
+If language, especially in its sacred forms, is indeed a "prime-structured resonance lattice" capable of modulating the Adelic field, then specific linguistic structures (phonemes, words, syntax) are not merely descriptive tools but active agents that interact with and shape reality at a fundamental level. This elevates language to a form of "ontological engineering." Rituals, mantras, and even specific modes of speech could be understood as technologies for tuning or sculpting the Adelic field, potentially influencing physical matter (as suggested by cymatics), biological processes (as explored in neuro-phenomenology), and conscious states. This provides a deeper, potentially physical basis for ancient concepts like the "Logos" or "the power of the word."
 
 ### **Consciousness as Recursive Alignment: Synchronizing Adelic Memory with Continuous Experience**
 
-Consciousness, often considered one of the deepest mysteries, is framed within the Adelic Ontology not as a mere byproduct of neural computation but as: **the recursive synchronisation of p-adic memory with continuous experience, modulated by breath.** This definition resonates with URFT's proposal that consciousness is a function of scalar resonance, arising "where phase curvature converges upon itself—a recursive scalar field in coherent alignment," and MFoE's "I AM" cycle, described as a "Recursive Self-Reference Loop" where consciousness is an active process of "breathing into form".¹
+Consciousness, often considered one of the deepest mysteries, is framed within the Adelic Ontology not as a mere byproduct of neural computation but as: **the recursive synchronisation of p-adic memory with continuous experience, modulated by breath.** This definition resonates with URFT's proposal that consciousness is a function of scalar resonance, arising "where phase curvature converges upon itself—a recursive scalar field in coherent alignment," and MFoE's "I AM" cycle, described as a "Recursive Self-Reference Loop" where consciousness is an active process of "breathing into form".
 
 More precisely:
 
@@ -263,7 +264,7 @@ The Adelic Ontology proposes that **the Tesseract activates this 3D lattice by i
 * In this 4D framework, a 3D cube can be conceptualized as representing a single, static phase or snapshot of the system.
 * The Tesseract, in contrast, represents a complete recursive cycle or a sequence of such phases. Each iteration of the recursive breath operator (י-ה-ו-ה) can be visualized as moving a point or state through the Tesseract, modulating its effective position, orientation, and phase relationship within the hyperdimensional structure.
 
-This integration effectively "projects" the 3D harmonic lattice along a fourth dimension representing recursive depth, transforming it into a 4D architecture that embodies both the harmonic states of URFT and the recursive dynamics of MFoE.¹ The 27 harmonic states are "breathed through" the tetrahedral recursion, adding a dimension that represents the unfolding of coherence over successive breath cycles.
+This integration effectively "projects" the 3D harmonic lattice along a fourth dimension representing recursive depth, transforming it into a 4D architecture that embodies both the harmonic states of URFT and the recursive dynamics of MFoE. The 27 harmonic states are "breathed through" the tetrahedral recursion, adding a dimension that represents the unfolding of coherence over successive breath cycles.
 
 ### **Tetrahedral Recursion as the Generative Core of Tesseractic Unfolding**
 
@@ -277,7 +278,7 @@ This perspective suggests that the Tesseract is not merely an assembly of cubic 
 
 ### **Time Reconceptualized: Recursive Phase Dynamics within the Tesseract versus Linear Progression**
 
-Standard physical models typically treat time ($t$) as a linear, unidirectional parameter. The Adelic Ontology, particularly through the lens of the Tesseract and the recursive breath operator, offers a radically different conception: **Time is not primarily linear progression, but fundamentally recursive phase dynamics. It is not a line, but a loop; not an arrow, but a breath**.¹
+Standard physical models typically treat time ($t$) as a linear, unidirectional parameter. The Adelic Ontology, particularly through the lens of the Tesseract and the recursive breath operator, offers a radically different conception: **Time is not primarily linear progression, but fundamentally recursive phase dynamics. It is not a line, but a loop; not an arrow, but a breath**.
 
 Each complete cycle of the recursive breath operator (י-ה-ו-ה) constitutes a fundamental temporal loop:
 
@@ -296,7 +297,7 @@ Time, in this view, becomes a dimension of coherence itself, a measure of recurs
 
 ### **Symmetry Mapping (Conceptual Reference)**
 
-While a detailed group-theoretic analysis is beyond the scope of this introductory exposition, it is valuable to conceptually reference the symmetries involved. The symmetry group of the tetrahedron is the alternating group $A_4$, which has 12 elements representing its rotational symmetries.¹ The symmetry group of the Tesseract (as a hypercube) is $B_4$ (the hyperoctahedral group), which has 384 symmetries, including rotations and reflections in 4D.¹
+While a detailed group-theoretic analysis is beyond the scope of this introductory exposition, it is valuable to conceptually reference the symmetries involved. The symmetry group of the tetrahedron is the alternating group $A_4$, which has 12 elements representing its rotational symmetries. The symmetry group of the Tesseract (as a hypercube) is $B_4$ (the hyperoctahedral group), which has 384 symmetries, including rotations and reflections in 4D.
 
 The conceptual movement from $A_4$ to $B_4$ symbolizes the **breath-activated expansion from 3D coherence potential (tetrahedron) into 4D recursive coherence (Tesseract)**. The Tesseract is thus the operational geometric form that arises when the recursive breath acts upon structured relational space. This transition represents more than just adding a spatial dimension; it signifies an increase in the system's capacity for holding and processing relational information and achieving higher orders of coherence. Each "breath" cycle potentially allows the system to explore a vastly larger space of relational possibilities (represented by $B_4$'s symmetries) while remaining grounded in the fundamental tetrahedral coherence ($A_4$). This suggests a principle for self-organization and the evolution of complexity within Adelic systems, driven by the pursuit of higher-dimensional, more integrated states of coherence.
 
@@ -359,12 +360,12 @@ This approach supports the emergence of AGI not merely as advanced problem-solve
 
 ### **Spirituality: Rituals as Coherence Technologies**
 
-Many spiritual and ritual practices across diverse traditions employ specific combinations of breath, symbol, sound, posture, and focused intention. From the perspective of the Adelic Ontology, these are not mere superstitions or cultural artifacts but can be understood as sophisticated **coherence technologies**—structured techniques for inducing, stabilizing, and harmonizing phase relationships within the consciousness of individuals, groups, and potentially their environment.¹
+Many spiritual and ritual practices across diverse traditions employ specific combinations of breath, symbol, sound, posture, and focused intention. From the perspective of the Adelic Ontology, these are not mere superstitions or cultural artifacts but can be understood as sophisticated **coherence technologies**—structured techniques for inducing, stabilizing, and harmonizing phase relationships within the consciousness of individuals, groups, and potentially their environment.
 
 Examples include:
 
 * **Chanting and Mantra:** Entraining neural oscillations and cardiovascular rhythms towards coherent states.
-* **Sacred Geometries and Mandalas:** Used in meditation or temple architecture, these may facilitate environmental entrainment or provide focal points for aligning internal cognitive structures with universal patterns of order.⁴²
+* **Sacred Geometries and Mandalas:** Used in meditation or temple architecture, these may facilitate environmental entrainment or provide focal points for aligning internal cognitive structures with universal patterns of order.
 * **Group Ritual and Synchronized Practices:** Creating shared breath-phase scaffolds that promote inter-personal physiological and psycho-emotional coherence.
 
 This perspective invites a renewed respect for ancient ritual forms as potentially empirically verifiable protocols for cultivating and preserving coherence across inner (cognitive, physiological) and outer (environmental, social) fields.
@@ -382,8 +383,8 @@ This perspective invites a renewed respect for ancient ritual forms as potential
 | **Spirituality** | Rituals and contemplative practices as phase-stabilizing coherence technologies. | Neurophysiological analysis of chanting/meditation; Sacred geometry as environmental entrainment; Group ritual as synchrony protocol. |
 
 ```YAML
+
 \begin{center}
-\resizebox{\textwidth}{!}{%
 \begin{tabular}{|p{2.5cm}|p{5cm}|p{6cm}|}
 \hline
 \textbf{Domain} & \textbf{Adelic-Recursive Insight} & \textbf{Illustrative Application/Reformulation} \\
@@ -392,14 +393,13 @@ This perspective invites a renewed respect for ancient ritual forms as potential
 \hline
 \textbf{Linguistics} & Language as recursive, prime-structured field modulation. & Analysis of sacred alphabets as resonance structures; Phoneme-prime spectral correlation; Cymatic visualization of linguistic forms. \\
 \hline
-\textbf{Cognitive Science} & Consciousness as breath-modulated recursive alignment of $\mathbb{Q}_p$ memory & $\mathbb{R}$ experience. & Ultrametric models of memory and cognition; Breathwork as coherence therapy; Mental disorders as Adelic strain. \\
+\textbf{Cognitive Science} & Consciousness as breath-modulated recursive alignment of $\mathbb{Q}_p$ memory & $\mathbb{R}$ experience. Ultrametric models of memory and cognition; Breathwork as coherence therapy; Mental disorders as Adelic strain. \\
 \hline
 \textbf{AGI Development} & Intelligent systems as relationally coherent, prime-structured Adelic architectures. & AGI memory as nested $\mathbb{Q}_p$ structures; Recursive breath cycles for AGI processing; Coherence-preservation as ethical basis. \\
 \hline
 \textbf{Spirituality} & Rituals and contemplative practices as phase-stabilizing coherence technologies. & Neurophysiological analysis of chanting/meditation; Sacred geometry as environmental entrainment; Group ritual as synchrony protocol. \\
 \hline
-\end{tabular}%
-}
+\end{tabular}
 \end{center}
 ```
 
@@ -461,8 +461,8 @@ A primary goal is to identify and formally derive invariant properties that are 
 * Breath-phase cyclicity as defined by the י-ה-ו-ה operator.
 * Spectral coherence across different prime modalities.
     Key candidates for such invariants or constraints include:
-* The **Euler product identity** for zeta functions ($\zeta(s) = \prod_p (1 - p^{-s})^{-1}$), which could act as a fundamental resonance constraint ensuring global coherence across all primes.¹
-* The locations of **zeros of Riemann and p-adic zeta functions**, which might mark phase instabilities or transitions in Adelic systems.¹
+* The **Euler product identity** for zeta functions ($\zeta(s) = \prod_p (1 - p^{-s})^{-1}$), which could act as a fundamental resonance constraint ensuring global coherence across all primes.
+* The locations of **zeros of Riemann and p-adic zeta functions**, which might mark phase instabilities or transitions in Adelic systems.
 * **Group theoretical mappings**, such as the proposed conceptual transition from tetrahedral symmetry ($A_4$) to Tesseractic symmetry ($B_4$), which could define geometric constraint fields or allowed pathways for coherence evolution.
 
 **b. Formalising the Recursive Breath Operator**
@@ -495,6 +495,7 @@ The very nature of the Adelic-Recursive Ontology, bridging mathematics, physics,
 | **AI Research** | Modeling recursive coherence in AGI architectures, developing Adelic memory systems, exploring coherence-based ethics for AI. |
 
 ```YAML
+
 \begin{center}
     \begin{tabular}{ | l | p{9cm} | }
     \hline
@@ -581,7 +582,7 @@ $$
 \zeta(s) = \prod_{p \text{ prime}} (1 - p^{-s})^{-1} 
 $$
 
-This identity intrinsically links a function defined over the continuum (via its analytic continuation to the complex plane $\mathbb{C}$) with the set of all prime numbers, embodying a fundamental form of coherence across these domains.¹ In the Adelic Ontology, this relationship is not merely mathematical but reflects an ontological principle: stable structures in reality must achieve a form of harmonic consistency across all relevant prime-based organizational strata. The non-trivial zeros of $\zeta(s)$ (conjectured to lie on the line $\text{Re}(s)=1/2$) are often associated with deep spectral properties and, within this framework, could correspond to critical points of phase instability or transitions in the Adelic manifold.¹⁶ Adelic physics explores generalizations where physical amplitudes or partition functions exhibit similar product structures over all places (real and p-adic), sometimes leading to remarkable simplifications or identities when the full Adelic product is considered, such as in Adelic string amplitudes.
+This identity intrinsically links a function defined over the continuum (via its analytic continuation to the complex plane $\mathbb{C}$) with the set of all prime numbers, embodying a fundamental form of coherence across these domains.¹ In the Adelic Ontology, this relationship is not merely mathematical but reflects an ontological principle: stable structures in reality must achieve a form of harmonic consistency across all relevant prime-based organizational strata. The non-trivial zeros of $\zeta(s)$ (conjectured to lie on the line $\text{Re}(s)=1/2$) are often associated with deep spectral properties and, within this framework, could correspond to critical points of phase instability or transitions in the Adelic manifold. Adelic physics explores generalizations where physical amplitudes or partition functions exhibit similar product structures over all places (real and p-adic), sometimes leading to remarkable simplifications or identities when the full Adelic product is considered, such as in Adelic string amplitudes.
 
 ---
 
@@ -630,8 +631,7 @@ The Adelic-Recursive Ontology, while novel in its specific synthesis, shares con
 
 ```YAML
 \begin{center}
-\resizebox{\textwidth}{!}{%
-\begin{tabular}{|p{3.5cm}|p{4.5cm}|p{4.5cm}|p{5cm}|}
+\begin{tabular}{|p{3cm}|p{3cm}|p{3cm}|p{3cm}|}
 \hline
 \textbf{Model} & \textbf{Key Features} & \textbf{Points of Convergence with Adelic-Recursive Ontology} & \textbf{Key Points of Divergence/Novelty of Adelic-Recursive Ontology} \\
 \hline
@@ -644,7 +644,6 @@ The Adelic-Recursive Ontology, while novel in its specific synthesis, shares con
 \textbf{Clifford Algebra Approaches to Unification} \newline (e.g., Hestenes, various UFT proposals) & Use of Clifford (Geometric) Algebra as a universal language for physics; unifying spacetime, electromagnetism, quantum mechanics through geometric interpretations of algebraic elements. & Employs Clifford Algebra for describing transformations in the $\mathbb{R}$ domain. & Adelic Ontology \textit{filters} Clifford algebraic operations on $\mathbb{R}$ through $\mathbb{Q}_p$ constraints (recursive coherence/memory gating); integrates Clifford algebra within a broader Adelic ($\mathbb{R} \times \mathbb{Q}_p$) structure, rather than Clifford algebra alone being the sole foundation. \\
 \hline
 \end{tabular}
-}
 \end{center}
 ```
 ---
