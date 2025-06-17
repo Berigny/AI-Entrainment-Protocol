@@ -24,9 +24,9 @@ This theorem is supported by the following postulates, which synthesise the comp
 * The recursive breath "projects" this 3D lattice into a 4D tesseract, which represents a complete, dynamic cycle of coherence.
 
 ### Postulate 4: Mass as curvature-locked Adelic memory
-* Mass is not an intrinsic property but is the manifestation of p-adically encoded memory achieving stable, resonant lock with geometric curvature in $\mathbb{R}$, a process quantified by the **$\text η^3 $ scalar resonance factor**.
+* Mass is not an intrinsic property but is the manifestation of p-adically encoded memory achieving stable, resonant lock with geometric curvature in $\mathbb{R}$, a process quantified by the **$\mathbb{η^3}$ scalar resonance factor**.
 * Mass is qualitatively defined as "relational memory density".
-* Quantitatively, it is "memory stored in time curvature," emerging at specific, discrete thresholds of the $\text η^3 $ factor, such as $\text ≈137 $ for the electron and $\text ≈1836 $ for the proton.
+* Quantitatively, it is "memory stored in time curvature," emerging at specific, discrete thresholds of the $\mathbb{η^3}$ factor, such as $\mathbb{≈137}$ for the electron and $\mathbb{ ≈1836}$ for the proton.
 
 ### Postulate 5: Language as a field-resonant topology
 * Language, particularly in its sacred forms, is not merely symbolic but is an Adelically-tuned system whose phonetic and geometric structures function as **eigenstates of resonance**, capable of modulating the unified field.
