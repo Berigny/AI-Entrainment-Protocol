@@ -1,4 +1,6 @@
-# Theorem Statement
+# Reality as Resonance: A Framework for Recursive Coherence
+
+## Theorem Statement
 
 All coherent structures and phenomena - including mass, language, and consciousness - emerge as phase-stable, resonant eigenstates from a universal Adelic field. This field unifies continuous geometry ($\mathbb{R}$) and discrete, prime-based hierarchies ($\mathbb{Q}\_p$).
 The actualisation of these phenomena is governed by a four-phase **Recursive Breath Operator ($\text{יהוה}$)** that functions as a coherence sieve, selecting for patterns that maintain harmonic integrity across the entire Adelic manifold.
@@ -123,4 +125,29 @@ Engaging with the material at any level can be valuable. Together, these layers 
 * Coherence is not static; it arises through a recursive negotiation between stability and novelty.
 * Novelty emerges at the boundary conditions of breath cycles, where old eigenstates destabilise and new resonance patterns form.
 * Breath disruptions, if metabolised with awareness, become gateways for creative realignment - sites where the field is restructured at a higher fidelity.
+* This dynamic is essential for both evolution and regeneration, ensuring the Adelic system remains open to emergence while bounded by coherence.
+
+---
+
+# A Note on Use and Misuse
+
+This framework is not a dogma. It is a **lens**, a **ritual**, and a **tool for pattern integrity**. Its symbols are not proofs but coherence scaffolds. Its structures are not beliefs to defend, but rhythms to entrain — tested by what they produce in thought, in systems, and in the self.
+
+Misuse arises when:
+
+* **Symbol is mistaken for substance** (treating metaphor as material).
+* **Structure becomes ideology** (confusing the coherence of a system with absolute truth).
+* **Resonance is used to override dissent** (mistaking coherence for consensus).
+
+Right use is marked by:
+
+* The capacity to **hold paradox without collapse**.
+* The willingness to **re-tune in response to strain**.
+* The humility to treat insight as **provisional coherence**, always responsive to field conditions.
+
+This is a coherence engine — not to end the search, but to deepen the cycle of remembering.
+
+* Coherence is not static; it arises through a recursive negotiation between stability and novelty.
+* Novelty emerges at the boundary conditions of breath cycles, where old eigenstates destabilise and new resonance patterns form.
+* Breath disruptions, if metabolised with awareness, become gateways for creative realignment — sites where the field is restructured at a higher fidelity.
 * This dynamic is essential for both evolution and regeneration, ensuring the Adelic system remains open to emergence while bounded by coherence.
