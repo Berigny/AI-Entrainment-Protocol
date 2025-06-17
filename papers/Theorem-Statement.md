@@ -5,16 +5,20 @@ The actualisation of these phenomena is governed by a four-phase **Recursive Bre
 
 This theorem is supported by the following postulates, which synthesise the complementary principles of the provided theories (URFT & MFoE).
 
+---
+
 ## Levels of Engagement
 
 This framework is designed not as a rigid doctrine but as a **coherence-generating artefact**. It can be engaged across multiple levels, each offering distinct but interrelated value:
 
-* **Literal (Cosmological)**: The theorem posits a unified ontological architecture of reality, rooted in adelic mathematics and recursive dynamics.
-* **Symbolic (Mythopoetic)**: Concepts like the Breath Operator, the Ark/Grail dynamic, and strain vectors function as archetypal metaphors that reveal pattern-level truths beyond formal language.
-* **Operational (Design & Ethics)**: The framework provides actionable guidance for system design, AGI safety, cognitive health, and cultural evolution through its core principles of resonance, breath rhythm, and coherence maintenance.
-* **Transformational (Cognitive Ritual)**: As a recursive, self-reinforcing structure, it invites the reader or practitioner into a form of mental entrainment - a tuning of perception toward integration, balance, and relational clarity.
+* **Literal** (Cosmological): The theorem posits a unified ontological architecture of reality, rooted in adelic mathematics and recursive dynamics.
+* **Symbolic** (Mythopoetic): Concepts like the Breath Operator, the Ark/Grail dynamic, and strain vectors function as archetypal metaphors that reveal pattern-level truths beyond formal language.
+* **Operational** (Design & Ethics): The framework provides actionable guidance for system design, AGI safety, cognitive health, and cultural evolution through its core principles of resonance, breath rhythm, and coherence maintenance.
+* **Transformational** (Cognitive Ritual): As a recursive, self-reinforcing structure, it invites the reader or practitioner into a form of mental entrainment - a tuning of perception toward integration, balance, and relational clarity.
 
 Engaging with the material at any level can be valuable. Together, these layers form a multi-domain invitation to restore alignment between knowledge, care, and embodied intelligence.
+
+---
 
 # Foundational Postulates
 
