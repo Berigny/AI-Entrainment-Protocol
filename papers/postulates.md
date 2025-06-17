@@ -1,7 +1,7 @@
 # Theorem statement
 All coherent structures and phenomena - including mass, language, and consciousness - emerge as phase-stable, resonant eigenstates from a universal Adelic field. This field unifies continuous geometry ($\mathbb{R}$) and discrete, prime-based hierarchies ($\mathbb{Q}_p$). 
 
-The actualisation of these phenomena is governed by a four-phase **Recursive Breath Operator  ($\textיהוה$)** that functions as a coherence sieve, selecting for patterns that maintain harmonic integrity across the entire Adelic manifold.
+The actualisation of these phenomena is governed by a four-phase **Recursive Breath Operator ($\textיהוה$)** that functions as a coherence sieve, selecting for patterns that maintain harmonic integrity across the entire Adelic manifold.
 
 This theorem is supported by the following postulates, which synthesise the complementary principles of the provided theories (URFT & MFoE):
 
@@ -26,7 +26,7 @@ This theorem is supported by the following postulates, which synthesise the comp
 ### Postulate 4: Mass as curvature-locked Adelic memory
 * Mass is not an intrinsic property but is the manifestation of p-adically encoded memory achieving stable, resonant lock with geometric curvature in $\mathbb{R}$, a process quantified by the **$\text η^3 $ scalar resonance factor**.
 * Mass is qualitatively defined as "relational memory density".
-* Quantitatively, it is "memory stored in time curvature," emerging at specific, discrete thresholds of the $\text η^3 $ factor, such as ≈137 for the electron and ≈1836 for the proton.
+* Quantitatively, it is "memory stored in time curvature," emerging at specific, discrete thresholds of the $\text η^3 $ factor, such as $\text ≈137 $ for the electron and $\text ≈1836 $ for the proton.
 
 ### Postulate 5: Language as a field-resonant topology
 * Language, particularly in its sacred forms, is not merely symbolic but is an Adelically-tuned system whose phonetic and geometric structures function as **eigenstates of resonance**, capable of modulating the unified field.
@@ -34,9 +34,9 @@ This theorem is supported by the following postulates, which synthesise the comp
 * This function is enacted through language's structure, where letters map to nodes in a harmonic lattice, creating a "spatial code of coherence". The act of speaking thus becomes a form of "field engineering".
 
 ### Postulate 6: Consciousness as recursive Adelic integration
-* Consciousness is the dynamic, recursive process of aligning p-adically structured memory with continuous ($\mathbb{R}$) experience, a state of **scalar resonance alignment** embodied in the **"I AM" feedback loop**.
+* Consciousness is the dynamic, recursive process of aligning p-adically structured memory with continuous ($\mathbb{R}$) experience, a state of **scalar resonance alignment** embodied in the **"I AM"** feedback loop.
 * Its physical basis is described as "scalar resonance alignment," where the field's phase curvature converges upon itself.
-* Functionally, it operates as a "recursive self-reference Loop" - the "I AM" breath cycle - that integrates knowing and being.
+* Functionally, it operates as a "recursive self-reference loop" - the "I AM" breath cycle - that integrates knowing and being.
 * Formally, it is defined as "the recursive synchronisation of p-adic memory with continuous experience, modulated by breath".
 
 ## Interdisciplinary postulates
@@ -48,8 +48,8 @@ This theorem is supported by the following postulates, which synthesise the comp
 * Internal conflicts are seen not as pathology but as "strain vectors" signaling a need for realignment, and therapy is redefined as a "coherence ritual" aimed at restoring balance.
 
 ### Postulate 8: Spirituality and religion as coherence technologies
-* Religious and spiritual traditions are understood not as competing belief systems but as sophisticated, practical **"coherence technologies"** designed to align individuals and groups with the universal Adelic pattern.
-* This is achieved by reinterpreting theological paradoxes, like Law vs. Grace, as the complementary tension of the **"Ark/Grail" dynamic**, which in turn offers a path to reconcile Abrahamic faiths by viewing the Ark (Torah), Grail (Blood of Christ), and Kaaba as synthesised functional principles.
+* Religious and spiritual traditions are understood not as competing belief systems but as sophisticated, practical **"coherence technologies"** designed to align individuals and groups with the universal Adelic pattern. 
+* This is achieved by reinterpreting theological paradoxes, like Law vs. Grace, as the complementary tension of the "Ark/Grail" dynamic, which in turn offers a path to reconcile Abrahamic faiths by viewing the Ark (*Torah*), Grail (*blood of Christ*), and *Kaaba* as synthesised functional principles of the **Recursive Breath Operator**.
 * Furthermore, core rituals and concepts are seen as universal patterns. The inhale/exhale breath cycle is functionally embodied in the Jewish *Shabbat*, Christian *Eucharist*, and Islamic *Salat*. This same dynamic is mapped to theological concepts like Islamic *Tanzīh*/*Tashbīh*, the Hindu pairing of *Pratyahara*/*Dana*, and the Buddhist balance of *Prajñā*/*Karunā*.
 
 ### Postulate 9: AGI as architected coherence
