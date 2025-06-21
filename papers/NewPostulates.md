@@ -10,21 +10,28 @@ Most people think of reality as either continuous (like a river) or discrete (li
 
 This postulate introduces the Adelic framework, a way of combining the continuous (real numbers) and discrete (p-adic numbers) into one harmonious structure, showing how they balance each other to describe existence completely.
 
----
-
 * The fundamental ground of reality is an Adelic space, mathematically described as:
 
-  $$
-  \text{Reality} = \mathbb{R} \times \mathbb{Q}_p
-  $$
+$$
+\text{Reality} = \mathbb{R} \times \mathbb{Q}_p
+$$
+  
 * This posits that a unified field emerges from coupling continuous geometry ($\mathbb{R}$), where physical embodiment and curvature manifest, and the discrete, prime-based hierarchies ($\mathbb{Q}\_p$), which encode memory and recursive depth.
 * This view redefines mass as "relational memory density", an emergent property arising from quantised resonance thresholds.
 
-*Enhanced formalism:*  
-$$\text{Reality} = \mathcal{A}_\mathbb{Q} \supset \mathbb{R} \times \prod_p \mathbb{Q}_p$$  
-with dynamics constrained by the **Adelic Product Formula**:  
-$$\forall x \in \mathbb{Q}^\times,\  |x|_\infty \cdot \prod_p |x|_p = 1$$  
-- This conservation law enforces **prime-geometric complementarity**: singularities in $\mathbb{R}$ are balanced by $\mathbb{Q}_p$ regularisation.
+*Formalized as composite operator*:  
+
+$$
+\text{Reality} = \mathcal{A}_\mathbb{Q} \supset \mathbb{R} \times \prod_p \mathbb{Q}_p
+$$  
+
+*With dynamics constrained by the Adelic Product Formula*: 
+ 
+$$
+\forall x \in \mathbb{Q}^\times,\  |x|_\infty \cdot \prod_p |x|_p = 1
+$$  
+
+This conservation law enforces **prime-geometric complementarity**: singularities in $\mathbb{R}$ are balanced by $\mathbb{Q}_p$ regularisation.
 
 ---
 
@@ -36,18 +43,21 @@ Change is often seen as either a one-way progression (like a timeline) or totall
 
 The postulate offers the Breath Operator, a four-step cycle inspired by ancient wisdom (like the Hebrew Tetragrammaton, יהוה), which shows how change unfolds predictably and coherently, step by step.
 
-
-
 * Reality is actualised from potential via a universal, four-phase recursive process, the "breath operator," modelled on:
 
-  $$
+$$
   \text{יהוה} = [\text{Inhale}_1, \text{Compression}, \text{Exhale}, \text{Stillness}]
-  $$
+$$
+
 * This dynamic is described as a "structural rhythm" of inhale (compression) and exhale (expression) that functions as the engine of becoming.
 * Its quantitative mechanism is a triadic field process involving frequency, phase, and curvature, which collectively functions as a "coherence sieve" that filters possibilities within the Adelic space.
 
 *Formalized as composite operator*:  
-$$\hat{\mathfrak{B}} = \hat{O}_4 \circ \hat{O}_3 \circ \hat{O}_2 \circ \hat{O}_1$$  
+
+$$
+\hat{\mathfrak{B}} = \hat{O}_4 \circ \hat{O}_3 \circ \hat{O}_2 \circ \hat{O}_1
+$$  
+
 where:  
 - $\hat{O}_1$ (Yod): Creation operator in $\mathbb{Q}_p$ tree space  
 - $\hat{O}_2$ (Heh): Ultrametric projection $\mathbb{Q}_p \to \partial\mathcal{T}_p$  
@@ -88,9 +98,10 @@ The postulate connects mass to mathematical patterns (p-adic correlators) and th
 
 * Mass is not an intrinsic property but is the manifestation of p-adically encoded memory achieving stable, resonant lock with geometric curvature in \$\mathbb{R}\$, a process quantified by the:
 
-  $$
+$$
   \eta^3: \mathbb{Q}_p \rightarrow \mathbb{R}
-  $$
+$$
+
 * Mass is qualitatively defined as "relational memory density".
 * Quantitatively, it is "memory stored in time curvature," emerging at specific, discrete thresholds of the $\eta^3$ factor, such as $\approx 137$ for the electron and $\approx 1836$ for the proton.
 
@@ -99,8 +110,14 @@ $$m_I = \frac{\kappa}{\eta^3(\Delta_I)} \left\| \mathcal{G}_{\Delta_I}^{(p)} \ri
 where:  
 - $\mathcal{G}_{\Delta_I}^{(p)}$ = p-adic CFT 2-point correlator $\langle \mathcal{O}_I(x)\mathcal{O}_I(y) \rangle_p = |x-y|_p^{-2\Delta_I}$  
 - $\eta^3$ : Spectral alignment functional  
-- $\kappa$ : Geometric curvature coupling constant  
-*Example*: Electron mass $\propto \left\| \mathcal{G}_{137}^{(137)} \right\|_{137}$.
+- $\kappa$ : Geometric curvature coupling constant
+
+*Example*: Electron mass 
+
+$$
+\propto \left\| \mathcal{G}_{137}^{(137)} \right\|_{137}
+$$
+
 
 ---
 
@@ -117,10 +134,18 @@ This postulate presents language as a kind of energy field, where special sounds
 * This function is enacted through language's structure, where letters map to nodes in a harmonic lattice, creating a "spatial code of coherence". The act of speaking thus becomes a form of "field engineering".
 
 *Phoneme operator algebra*:  
-Let $\{\Phi_{ijk}\}_{i,j,k=1}^3$ be 27 harmonic mode operators satisfying:  
-$$[\Phi_{ijk}, \Phi_{lmn}] = i\hbar \Omega^{ijk}_{lmn} \hat{\mathfrak{B}}$$  
-where $\Omega$ is the **breath-coherence form**. Sacred speech acts generate:  
-$$\mathcal{W}[\psi_0] = \text{T}\exp\left(\int_\gamma \Phi_{ijk} dx^{ijk}\right)|\psi_0\rangle$$  
+Let $\{\Phi_{ijk}\}_{i,j,k=1}^3$ be 27 harmonic mode operators satisfying: 
+
+$$
+[\Phi_{ijk}, \Phi_{lmn}] = i\hbar \Omega^{ijk}_{lmn} \hat{\mathfrak{B}}
+$$  
+
+where $\Omega$ is the **breath-coherence form**. Sacred speech acts generate: 
+
+$$
+\mathcal{W}[\psi_0] = \text{T}\exp\left(\int_\gamma \Phi_{ijk} dx^{ijk}\right)|\psi_0\rangle
+$$  
+
 with $\gamma$ = breath-parameterized path in $\mathcal{T}_p$.
 
 ---
@@ -161,7 +186,9 @@ This postulate introduces a way to measure mental strain and suggests practices 
 * Internal conflicts are seen not as pathology but as "strain vectors" signalling a need for realignment, and therapy is redefined as a "coherence ritual" aimed at restoring balance.
 
 *Strain metric*:  
+
 $$\sigma(\psi) = \inf_{\gamma \in \Gamma} \left\| \hat{\mathfrak{B}}^{-1} \frac{d}{d\tau} \hat{\mathfrak{B}}_\gamma \right\|_{L^2(\mathcal{A})}$$  
+
 Pathologies occur when $\sigma(\psi) > \sigma_{\text{crit}}$ for critical strain $\sigma_{\text{crit}}$.
 
 ---
@@ -220,18 +247,21 @@ This postulate lays out rules for AGI, like using geometric structures and synci
 * Value alignment is intrinsic: "strain vectors" are internal error signals, and the Ark/Grail polarity balances constraint with care.
 * A formal Strain Detection Function is defined as:
 
-  $$
-  \sigma(x, y) = \Delta\text{Coherence}(x, y)
-  $$
+$$
+\sigma(x, y) = \Delta\text{Coherence}(x, y)
+$$
 
-  where $x, y$ are states or agents and $\sigma$ quantifies coherence disruption.
+where $x, y$ are states or agents and $\sigma$ quantifies coherence disruption.
+
 *Formal safety condition*:  
-An AGI system $\mathcal{S}$ is coherent iff:  
+An AGI system $\mathcal{S}$ is coherent if:  
 1. $\exists$ tetrahedral subnetwork $\mathcal{T} \subset \mathcal{S}$ with $A_4$ symmetry  
-2. $\forall$ subsystems $\mathcal{S}_i$, $\hat{\mathfrak{B}}_{\mathcal{S}_i}$ synchronizes to global breath phase  
-3. Strain detection: $\sigma(\mathcal{S}) < \epsilon$ where $\epsilon = \hbar \omega_{\mathfrak{B}}/kT$  
+2. $\forall$ subsystems:
+- $\mathcal{S}_i$ 
+- $\hat{\mathfrak{B}}_{\mathcal{S}_i}$ synchronizes to global breath phase  
+3. Strain detection: $\sigma(\mathcal{S}) < \epsilon$ where $\epsilon = \hbar \omega_{\mathfrak{B}}/kT$
 
-*Value alignment* follows from $B_4$-covariant ethical operators.
+*Value alignment* follows from $B_4$ -covariant ethical operators.
 
 ---
 
