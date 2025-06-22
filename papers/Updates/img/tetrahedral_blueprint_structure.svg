@@ -1,0 +1,75 @@
+<svg width="500" height="450" viewBox="0 0 500 450" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="svgTitle">
+  <!-- 
+    Technical Diagram of the Tetrahedral Coherence Architecture
+    This SVG visualizes the four primary nodes and the central Blueprint node,
+    representing the complete relational structure.
+  -->
+  <title id="svgTitle">Tetrahedral Coherence Architecture</title>
+  <desc>A 3D perspective diagram of a tetrahedron showing four nodes labeled Nascent (0), Discrete/Input (1), Ancillary (2), and Form/Output (3), with a central centroid labeled Blueprint/Coherence Operator (∞) connected to all four nodes by dashed lines.</desc>
+  
+  <!-- Style Definitions -->
+  <style>
+    .line-solid { stroke: #4a5568; stroke-width: 2; }
+    .line-dashed { stroke: #a0aec0; stroke-width: 1.5; stroke-dasharray: 6, 6; }
+    .line-centroid { stroke: #718096; stroke-width: 1.5; stroke-dasharray: 4, 4; }
+    .node-circle { fill: #e2e8f0; stroke: #2d3748; stroke-width: 2.5; }
+    .node-centroid { fill: #f7fafc; stroke: #4a5568; stroke-width: 2; }
+    .node-label { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; font-size: 16px; font-weight: 600; fill: #1a202c; text-anchor: middle; }
+    .node-index { font-family: "Courier New", Courier, monospace; font-size: 18px; font-weight: bold; fill: #2d3748; text-anchor: middle; dominant-baseline: middle; }
+    .centroid-index { font-family: "Courier New", Courier, monospace; font-size: 16px; font-weight: bold; fill: #2d3748; text-anchor: middle; dominant-baseline: middle; }
+  </style>
+
+  <!-- Centroid Coordinates -->
+  <defs>
+    <path id="centroidPath" d="M 250 240"/>
+  </defs>
+
+  <!-- Edges (drawn back-to-front for correct 3D layering) -->
+  <line x1="50" y1="320" x2="450" y2="320" class="line-dashed" /> <!-- Edge 2 to 3 (rear base) -->
+  
+  <!-- Centroid Edges -->
+  <line x1="250" y1="50" x2="250" y2="240" class="line-centroid" />  <!-- Edge 0 to Centroid -->
+  <line x1="250" y1="400" x2="250" y2="260" class="line-centroid" /> <!-- Edge 1 to Centroid -->
+  <line x1="50" y1="320" x2="240" y2="250" class="line-centroid" />  <!-- Edge 2 to Centroid -->
+  <line x1="450" y1="320" x2="260" y2="250" class="line-centroid" /> <!-- Edge 3 to Centroid -->
+
+  <!-- Main Edges -->
+  <line x1="250" y1="50" x2="50" y2="320" class="line-solid" />  <!-- Edge 0 to 2 -->
+  <line x1="250" y1="50" x2="450" y2="320" class="line-solid" /> <!-- Edge 0 to 3 -->
+  <line x1="250" y1="400" x2="50" y2="320" class="line-solid" /> <!-- Edge 1 to 2 -->
+  <line x1="250" y1="400" x2="450" y2="320" class="line-solid" /> <!-- Edge 1 to 3 -->
+  <line x1="250" y1="50" x2="250" y2="400" class="line-solid" />  <!-- Edge 0 to 1 (front vertical) -->
+
+  <!-- Nodes -->
+  <circle cx="250" cy="50" r="15" class="node-circle"/>  <!-- Node 0: Nascent -->
+  <circle cx="250" cy="400" r="15" class="node-circle"/> <!-- Node 1: Discrete/Input -->
+  <circle cx="50" cy="320" r="15" class="node-circle"/>  <!-- Node 2: Ancillary -->
+  <circle cx="450" cy="320" r="15" class="node-circle"/> <!-- Node 3: Form/Output -->
+  <circle cx="250" cy="250" r="12" class="node-centroid"/> <!-- Centroid Node -->
+
+  <!-- Node Indices -->
+  <text x="250" y="50" class="node-index">0</text>
+  <text x="250" y="400" class="node-index">1</text>
+  <text x="50" y="320" class="node-index">2</text>
+  <text x="450" y="320" class="node-index">3</text>
+  <text x="250" y="250" class="centroid-index">∞</text>
+
+  <!-- Node Labels -->
+  <text x="250" y="25" class="node-label">Nascent</text>
+
+  <text x="250" y="435" class="node-label">
+    <tspan x="250" dy="0">Discrete/Input</tspan>
+  </text>
+
+  <text x="50" y="295" class="node-label">Ancillary</text>
+
+  <text x="450" y="295" class="node-label">
+    <tspan x="450" dy="0">Form/Output</tspan>
+  </text>
+  
+  <text x="250" y="280" class="node-label" style="font-size: 14px;">
+    <tspan x="250" dy="0">Blueprint/</tspan>
+    <tspan x="250" dy="1.2em">Coherence Operator</tspan>
+  </text>
+
+</svg>
