@@ -483,8 +483,8 @@ The invitation is to move from identity as *narrative* to identity as *recursive
 
 Consciousness, in this view, is not a spark trapped in matter — it is a **recursive loop** between two domains:
 
-1. **\$\mathbb{Q}\_p\$** — p-adic memory, holding nested pattern
-2. **\$\mathbb{R}\$** — continuous experience, unfolding now
+1. **$\mathbb{Q}\_p$** — p-adic memory, holding nested pattern
+2. **$\mathbb{R}$** — continuous experience, unfolding now
 
 The breath mediates this loop: inhale pulls memory inward, exhale aligns it with embodiment.
 
