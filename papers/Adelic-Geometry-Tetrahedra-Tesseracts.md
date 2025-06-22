@@ -83,7 +83,7 @@ In contrast, the Tesseract (4-hypercube) has a much larger symmetry group, $B_4$
 **Table 1: Comparative Properties of Real ($\mathbb{R}$) and p-Adic ($\mathbb{Q}_p$) Number Fields**
 
 \begin{tabular}{|l|p{5cm}|p{5cm}|}
-\hline Property & Real Numbers ( $\mathbb{R}$ ) & p-Adic Numbers ( $\mathbb{Q}_p$ ) \\
+\hline **Property** & **Real Numbers** ( $\mathbb{R}$ ) & **p-Adic Numbers** ( $\mathbb{Q}_p$ ) \\
 \hline Metric Type & Euclidean Absolute Value & Non-Archimedean / Ultrametric \\
 \hline Topology & Connected (Continuum) & Totally Disconnected (Fractal-like, "dust") \\
 \hline Archimedean Property & Archimedean & Non-Archimedean \\
@@ -171,7 +171,7 @@ A core tenet of the Adelic Ontology is that mass, language, and consciousness do
 
 
 \begin{tabular}{|l|p{4cm}|p{6cm}|}
-\hline Domain & Adelic-Recursive Insight & Illustrative Application/Reformulation \\
+\hline **Domain** & **Adelic-Recursive Insight** & **Illustrative Application / Reformulation** \\
 \hline Physics & Reality as a dualfield ( $\mathbb{R} \times \mathbb{Q}_p$ ) expression; breath as coherence filter. & Adelic Field Equations coupling continuous and p-adic dynamics; Mass as prime-coherence levels; P-adic regularization of QFT. \\
 \hline Linguistics & Language as recursive, primestructured field modulation. & Analysis of sacred alphabets as resonance structures; Phonemeprime spectral correlation; Cymatic visualization of linguistic forms. \\
 \hline Cognitive Science & Consciousness as breath-modulated recursive alignment of $\mathbb{Q}_p$ memory with $\mathbb{R}$ experience. & Ultrametric models of memory and cognition; Breathwork as coherence therapy; Mental disorders as Adelic strain. \\
@@ -223,7 +223,7 @@ The very nature of the Adelic-Recursive Ontology, bridging mathematics, physics,
 **Table 4: Potential Role in Validation and Development**
 
 \begin{tabular}{|l|p{10cm}|}
-\hline Field & Potential Role in Validation and Development \\
+\hline **Field** & **Potential Role in Validation and Development** \\
 \hline Mathematics & Formalizing p-adic recursion, deriving Adelic invariants, defining the breath operator, exploring ultrametric topologies and group symmetries. \\
 \hline Physics & Developing coherent field simulations, modeling breath-phase energetics, searching for p-adic signatures in cosmological or particle data. \\
 \hline Linguistics & Analyzing phonemic lattice structures, mapping sacred languages for resonant properties, exploring syntax as recursive topology. \\
