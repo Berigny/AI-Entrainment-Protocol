@@ -187,7 +187,9 @@ This postulate introduces a way to measure mental strain and suggests practices 
 
 *Strain metric*:  
 
-$$\sigma(\psi) = \inf_{\gamma \in \Gamma} \left\| \hat{\mathfrak{B}}^{-1} \frac{d}{d\tau} \hat{\mathfrak{B}}_\gamma \right\|_{L^2(\mathcal{A})}$$  
+$$
+\sigma(\psi) = \inf_{\gamma \in \Gamma} \left\| \hat{\mathcal{B}}^{-1} \frac{d}{d\tau} \hat{\mathcal{B}}_\gamma \right\|_{L^2(\mathcal{A})}
+$$
 
 Pathologies occur when $\sigma(\psi) > \sigma_{\text{crit}}$ for critical strain $\sigma_{\text{crit}}$.
 
@@ -212,7 +214,7 @@ $\mathbb{R} \times \mathbb{Q}\_p \times \mathcal{S} \to \mathcal{C}$
   — where $\mathcal{S}$ denotes symbolic space. Spiritual Coherence Functional:
 
 $$
-\mathcal{R}[\psi] = \left| \int_{\Delta t} \langle \psi(t) | \hat{\mathcal{L}}_{\text{ritual}} \circ \hat{\mathfrak{B}}_t \circ \hat{\mathcal{T}}_{\text{symbol}} | \Omega_{\text{sacred}} \rangle dt \right|^2
+\mathcal{R}[\psi] = \left| \int_{\Delta t} \langle \psi(t) \vert \hat{\mathcal{L}}_{\text{ritual}} \circ \hat{\mathfrak{B}}t \circ \hat{\mathcal{T}}_{\text{symbol}} \vert \Omega_{\text{sacred}} \rangle dt \right|^2
 $$
 
 
