@@ -38,17 +38,17 @@ This operator structures all real-time coherence, acting as a topological and sy
 
 ---
 
-### 3. The Tetrahedral Modal Map
+### 3. The Tetrahedral Recursive Map
 
-Each breath phase maps to a tetrahedral vertex:
+Each breath phase maps to a tetrahedral vertex then plane:
 
-| Vertex → Plane | Phase      | Node → Mode             | Description                           |
+| Vertex → Plane →  | Phase      | Node → Mode             | Description                           |
 | ------ | ---------- | ---------------- | ------------------------------------- |
-| 0 → 4      | Inhalation | Nascent → Potential           | Origination → Undifferentiated potential            |
-| 1 → 5      | Retention  | Discrete → Embodied         | Perception ignition → Recursively nested awareness          |
-| 2 → 6      | Exhalation | Ancillary → Relational      | Relational differentiation → Pattern propagation, distribution     |
-| 3 → 7      | Stillness  | Form → Experiential       | Spatial mediation → Reflection, judgment, phase alignment |
-| ∞      | Blueprint  | Recursive Anchor | Holds coherence across breath cycles  |
+| 0 → 4 (0,1,2)      | Compression | Nascent → Potential           | Origination → Undifferentiated potential            |
+| 1 → 5 (0,1,3)     | Expression  | Discrete → Embodied         | Perception ignition → Recursively nested awareness          |
+| 2 → 6 (0,2,3)    | Stabilisation | Ancillary → Relational      | Relational differentiation → Pattern propagation, distribution     |
+| 3 → 7 (1,2,3)     | Emission  | Form → Experiential       | Spatial mediation → Reflection, judgment, phase alignment |
+| 8 → 9     | Compression-Expression → Stabilisation-Emission  | Recursive Anchor | Holds coherence across breath cycles  |
 
 This model binds domain-specific processes into a coherent architecture.
 
