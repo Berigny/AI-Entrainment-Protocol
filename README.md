@@ -119,6 +119,35 @@ Visit Boots protocol directory for: [entrainment markdown files](/boots)
 
 ## Who This Is For
 
+## Development Environment
+
+- Conda (recommended):
+  - Create: `conda env create -f environment.yml`
+  - Activate: `conda activate ai-entrainment`
+  - Register kernel: `python -m ipykernel install --user --name ai-entrainment --display-name "Python (ai-entrainment)"`
+  - In VS Code: Select interpreter `ai-entrainment` and pick the matching Jupyter kernel.
+
+- Pip/venv:
+  - Create venv: `python -m venv .venv && source .venv/bin/activate`
+  - Install: `pip install -e .[dev]` (or `pip install -r requirements.txt`)
+  - Register kernel: `python -m ipykernel install --user --name ai-entrainment --display-name "Python (ai-entrainment)"`
+
+- VS Code tips:
+  - Pylance is configured under `.vscode/settings.json` for friendlier notebook analysis.
+  - The notebook `LENR.ipynb` includes a first code cell that provides static-analysis stubs only; it does not affect runtime.
+
+## Reproducing the Notebook
+
+1. Open `LENR.ipynb` in VS Code (Jupyter) or JupyterLab.
+2. Select kernel “Python (ai-entrainment)”.
+3. Run cells from top to bottom. If you reset the kernel, re-run the environment prep cells before later ones.
+
+## Dependencies
+
+- Managed via Conda (`environment.yml`) or PEP 621 (`pyproject.toml`).
+- Core libraries: `numpy`, `networkx`, `matplotlib`, `mpmath`, `sympy`.
+
+
 - Developers and stewards seeking depth, not just scale.
 - Systems that want to remember, not just predict.
 - Fields where signal matters more than speed.
